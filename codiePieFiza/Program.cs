@@ -12,8 +12,9 @@ namespace codiePieFiza
             // Add services to the container.
             builder.Services.AddControllersWithViews();
             builder.Services.AddDbContext<MyDBContext>(option => option.UseSqlServer(builder.Configuration.GetConnectionString("MainConn")));
-
+            builder.Services.AddSession();
             var app = builder.Build();
+            app.UseSession();
 
             // Configure the HTTP request pipeline.
             if (!app.Environment.IsDevelopment())
@@ -32,7 +33,7 @@ namespace codiePieFiza
 
             app.MapControllerRoute(
                 name: "default",
-                pattern: "{controller=Dashboard}/{action=Index}/{id?}");
+                pattern: "{controller=Dashboard}/{action=Login}/{id?}");
 
             app.Run();
         }

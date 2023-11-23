@@ -11,6 +11,10 @@ namespace codiePieFiza.Controllers
         {
             _dBContext = dbContext;
         }
+        public IActionResult Register()
+        {
+            return View();
+        }
 
         public IActionResult Login()
         {
@@ -21,26 +25,24 @@ namespace codiePieFiza.Controllers
         public IActionResult Login(Register r)
         {
             var check = _dBContext.Register.Where(a => a.Email == r.Email && a.Password == r.Password).FirstOrDefault();
+            HttpContext.Session.SetString("name", check.Name);
+               
+            return RedirectToAction("Index");
 
-                if(check != null)
-            {
-                ViewBag.data = "Login Successfully!";
-            }
-            else
-            {
-                ViewBag.data = "Invalid Credientials!";
-            }
-                return View();
-
-        }
-
-        public IActionResult Register()
-        {
-            return View();
         }
         public IActionResult Index()
         {
+            if (HttpContext.Session.GetString("name") == null)
+            {
+                return RedirectToAction("Login");
+            }
             return View();
+        }
+
+        public IActionResult Logout()
+        {
+            HttpContext.Session.Remove("name");
+            return RedirectToAction("Login");
         }
 
     }

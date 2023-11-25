@@ -1,6 +1,7 @@
 ﻿using codiePieFiza.Data;
 using codiePieFiza.Models;
 using Microsoft.AspNetCore.Mvc;
+using System.Text.RegularExpressions;
 
 namespace codiePieFiza.Controllers
 {
@@ -11,6 +12,17 @@ namespace codiePieFiza.Controllers
         {
             _dBContext = dbContext;
         }
+
+        ///dashboard index 
+        public IActionResult Index()
+        {
+            if (HttpContext.Session.GetString("name") == null)
+            {
+                return RedirectToAction("Login");
+            }
+            return View();
+        }
+        ///Auth start
         public IActionResult Register()
         {
             return View();
@@ -30,20 +42,27 @@ namespace codiePieFiza.Controllers
             return RedirectToAction("Index");
 
         }
-        public IActionResult Index()
-        {
-            if (HttpContext.Session.GetString("name") == null)
-            {
-                return RedirectToAction("Login");
-            }
-            return View();
-        }
 
         public IActionResult Logout()
         {
             HttpContext.Session.Remove("name");
             return RedirectToAction("Login");
         }
+        ///Auth end
+        
+        ///Crud start
+        ///Category
+       public IActionResult Categories()
+        {
+            return View();
+       }
+        public IActionResult AddCategory()
+        {
+            return View();
+        }
+
+        ///Crud end
+
 
     }
 }

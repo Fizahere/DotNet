@@ -1,0 +1,30 @@
+﻿
+@{
+    ViewData["Title"] = "AddCategory";
+    Layout = "~/Views/Shared/AdminLayout.cshtml";
+}
+
+<h1 class="mb-5">Add Category</h1>
+
+<div class="card">
+        <div class="card-header">
+            <h4>Add Category</h4>
+        </div>
+        <div class="row">
+        <div class="col-md-6">
+        <div class="card-body">
+    <form class="needs-validation" novalidate="">
+            <div class="form-group">
+                <label class="col-form-label">Category Name</label>
+                    <input type="text" class="form-control" required="">
+                    <div class="invalid-feedback">Input Category!</div>
+            </div>
+                    <input class="btn text-light btn-primary" type="submit" value="Submit" readonly />
+</form>
+
+        </div>
+        
+        </div>
+        </div>
+</div>
+

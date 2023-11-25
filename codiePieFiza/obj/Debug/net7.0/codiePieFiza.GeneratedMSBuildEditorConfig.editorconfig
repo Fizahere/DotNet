@@ -16,6 +16,14 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\STD\Documents\Fiza_.net\DotNet\codiePieFiza
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/STD/Documents/Fiza_.net/DotNet/codiePieFiza/Views/Dashboard/AddCategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXEFkZENhdGVnb3J5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/STD/Documents/Fiza_.net/DotNet/codiePieFiza/Views/Dashboard/Categories.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXENhdGVnb3JpZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/STD/Documents/Fiza_.net/DotNet/codiePieFiza/Views/Dashboard/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 

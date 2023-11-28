@@ -60,7 +60,26 @@ namespace codiePieFiza.Controllers
         {
             return View();
         }
-
+        [HttpPost]
+        public IActionResult AddCategory(Category c)
+        {
+            var check= _dBContext.Category.Where(a=>a.Name == c.Name).FirstOrDefault();
+            if(check!=null)
+            {
+                ViewBag.msg = "category already exist!";
+            }
+            else
+            {
+                _dBContext.Category.Add(c);
+                if (_dBContext.SaveChanges()>0)
+                {
+                ViewBag.msg = "Record Inserted!";                
+                    ///return RedirectToAction("Categories");
+                }
+                
+            }
+            return View();
+        }
         ///Crud end
 
 

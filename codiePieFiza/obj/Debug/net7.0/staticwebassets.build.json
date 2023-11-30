@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "JZb14OxGCugYkzbJrkoj+yA2sscuY81nTET8zVVnzBU=",
+  "Hash": "Du/Xv5pz/qOEvAjKrZphGZMa/A8UusyRLwrOYSXCLIo=",
   "Source": "codiePieFiza",
   "BasePath": "_content/codiePieFiza",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "codiePieFiza\\wwwroot",
       "Source": "codiePieFiza",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\obj\\Debug\\net7.0\\scopedcss\\bundle\\codiePieFiza.styles.css",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\obj\\Debug\\net7.0\\scopedcss\\bundle\\codiePieFiza.styles.css",
       "SourceId": "codiePieFiza",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "codiePieFiza.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\obj\\Debug\\net7.0\\scopedcss\\bundle\\codiePieFiza.styles.css"
+      "OriginalItemSpec": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\obj\\Debug\\net7.0\\scopedcss\\bundle\\codiePieFiza.styles.css"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\codiePieFiza.bundle.scp.css",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\codiePieFiza.bundle.scp.css",
       "SourceId": "codiePieFiza",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "codiePieFiza.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\codiePieFiza.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\codiePieFiza.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\asset\\img\\unsplash\\andre-benz-1214056-unsplash.html",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\asset\\img\\unsplash\\andre-benz-1214056-unsplash.html",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/asset/img/unsplash/andre-benz-1214056-unsplash.html",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\asset\\img\\unsplash\\andre-benz-1214056-unsplash.html"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\asset\\img\\unsplash\\eberhard-grossgasteiger-1207565-unsplash.html",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\asset\\img\\unsplash\\eberhard-grossgasteiger-1207565-unsplash.html",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/asset/img/unsplash/eberhard-grossgasteiger-1207565-unsplash.html",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\asset\\img\\unsplash\\eberhard-grossgasteiger-1207565-unsplash.html"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\bundles\\lib.vendor.bundle.js",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\bundles\\lib.vendor.bundle.js",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/assets/bundles/lib.vendor.bundle.js",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\assets\\bundles\\lib.vendor.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\css\\components.min.css",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\css\\components.min.css",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/assets/css/components.min.css",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\assets\\css\\components.min.css"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\css\\style.min.css",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\css\\style.min.css",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/assets/css/style.min.css",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\assets\\css\\style.min.css"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\americanexpress.png",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\americanexpress.png",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/assets/img/americanexpress.png",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\assets\\img\\americanexpress.png"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\avatar\\avatar-1.png",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\avatar\\avatar-1.png",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/assets/img/avatar/avatar-1.png",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\assets\\img\\avatar\\avatar-1.png"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\avatar\\avatar-2.png",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\avatar\\avatar-2.png",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/assets/img/avatar/avatar-2.png",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\assets\\img\\avatar\\avatar-2.png"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\avatar\\avatar-3.png",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\avatar\\avatar-3.png",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/assets/img/avatar/avatar-3.png",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\assets\\img\\avatar\\avatar-3.png"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\avatar\\avatar-4.png",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\avatar\\avatar-4.png",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/assets/img/avatar/avatar-4.png",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\assets\\img\\avatar\\avatar-4.png"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\avatar\\avatar-5.png",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\avatar\\avatar-5.png",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/assets/img/avatar/avatar-5.png",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\assets\\img\\avatar\\avatar-5.png"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\browsers\\chrome.png",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\browsers\\chrome.png",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/assets/img/browsers/chrome.png",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\assets\\img\\browsers\\chrome.png"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\browsers\\firefox.png",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\browsers\\firefox.png",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/assets/img/browsers/firefox.png",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\assets\\img\\browsers\\firefox.png"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\browsers\\internet-explorer.png",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\browsers\\internet-explorer.png",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/assets/img/browsers/internet-explorer.png",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\assets\\img\\browsers\\internet-explorer.png"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\browsers\\opera.png",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\browsers\\opera.png",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/assets/img/browsers/opera.png",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\assets\\img\\browsers\\opera.png"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\browsers\\safari.png",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\browsers\\safari.png",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/assets/img/browsers/safari.png",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\assets\\img\\browsers\\safari.png"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\dinersclub.png",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\dinersclub.png",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/assets/img/dinersclub.png",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\assets\\img\\dinersclub.png"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\discover.png",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\discover.png",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/assets/img/discover.png",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\assets\\img\\discover.png"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\example-image.jpg",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\example-image.jpg",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/assets/img/example-image.jpg",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\assets\\img\\example-image.jpg"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\example-image-50.jpg",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\example-image-50.jpg",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/assets/img/example-image-50.jpg",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\assets\\img\\example-image-50.jpg"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\jcb.png",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\jcb.png",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/assets/img/jcb.png",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\assets\\img\\jcb.png"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\mastercard.png",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\mastercard.png",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/assets/img/mastercard.png",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\assets\\img\\mastercard.png"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\news\\img01.jpg",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\news\\img01.jpg",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/assets/img/news/img01.jpg",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\assets\\img\\news\\img01.jpg"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\news\\img02.jpg",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\news\\img02.jpg",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/assets/img/news/img02.jpg",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\assets\\img\\news\\img02.jpg"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\news\\img03.jpg",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\news\\img03.jpg",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/assets/img/news/img03.jpg",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\assets\\img\\news\\img03.jpg"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\news\\img04.jpg",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\news\\img04.jpg",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/assets/img/news/img04.jpg",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\assets\\img\\news\\img04.jpg"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\news\\img05.jpg",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\news\\img05.jpg",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/assets/img/news/img05.jpg",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\assets\\img\\news\\img05.jpg"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\news\\img06.jpg",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\news\\img06.jpg",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/assets/img/news/img06.jpg",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\assets\\img\\news\\img06.jpg"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\news\\img07.jpg",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\news\\img07.jpg",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/assets/img/news/img07.jpg",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\assets\\img\\news\\img07.jpg"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\news\\img08.jpg",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\news\\img08.jpg",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/assets/img/news/img08.jpg",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\assets\\img\\news\\img08.jpg"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\news\\img09.jpg",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\news\\img09.jpg",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/assets/img/news/img09.jpg",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\assets\\img\\news\\img09.jpg"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\news\\img10.jpg",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\news\\img10.jpg",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/assets/img/news/img10.jpg",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\assets\\img\\news\\img10.jpg"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\news\\img12.jpg",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\news\\img12.jpg",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/assets/img/news/img12.jpg",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\assets\\img\\news\\img12.jpg"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\news\\img13.jpg",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\news\\img13.jpg",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/assets/img/news/img13.jpg",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\assets\\img\\news\\img13.jpg"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\news\\img14.jpg",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\news\\img14.jpg",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/assets/img/news/img14.jpg",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\assets\\img\\news\\img14.jpg"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\news\\img15.jpg",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\news\\img15.jpg",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/assets/img/news/img15.jpg",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\assets\\img\\news\\img15.jpg"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\paypal.png",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\paypal.png",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/assets/img/paypal.png",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\assets\\img\\paypal.png"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\products\\product-1-50.png",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\products\\product-1-50.png",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/assets/img/products/product-1-50.png",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\assets\\img\\products\\product-1-50.png"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\products\\product-2-50.png",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\products\\product-2-50.png",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/assets/img/products/product-2-50.png",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\assets\\img\\products\\product-2-50.png"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\products\\product-3-50.png",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\products\\product-3-50.png",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/assets/img/products/product-3-50.png",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\assets\\img\\products\\product-3-50.png"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\products\\product-4-50.png",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\products\\product-4-50.png",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/assets/img/products/product-4-50.png",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\assets\\img\\products\\product-4-50.png"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\products\\product-5-50.png",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\products\\product-5-50.png",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/assets/img/products/product-5-50.png",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\assets\\img\\products\\product-5-50.png"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\visa.png",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\visa.png",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/assets/img/visa.png",
       "AssetKind": "All",
@@ -782,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\assets\\img\\visa.png"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\js\\page\\features-setting-detail.html",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\js\\page\\features-setting-detail.html",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/assets/js/page/features-setting-detail.html",
       "AssetKind": "All",
@@ -799,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\assets\\js\\page\\features-setting-detail.html"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\apexcharts\\apexcharts.min.js",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\apexcharts\\apexcharts.min.js",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/assets/modules/apexcharts/apexcharts.min.js",
       "AssetKind": "All",
@@ -816,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\assets\\modules\\apexcharts\\apexcharts.min.js"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\bootstrap\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\bootstrap\\css\\bootstrap.min.css",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/assets/modules/bootstrap/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -833,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\assets\\modules\\bootstrap\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\bootstrap-colorpicker\\dist\\css\\bootstrap-colorpicker.min.css",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\bootstrap-colorpicker\\dist\\css\\bootstrap-colorpicker.min.css",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/assets/modules/bootstrap-colorpicker/dist/css/bootstrap-colorpicker.min.css",
       "AssetKind": "All",
@@ -850,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\assets\\modules\\bootstrap-colorpicker\\dist\\css\\bootstrap-colorpicker.min.css"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\bootstrap-colorpicker\\dist\\js\\bootstrap-colorpicker.min.js",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\bootstrap-colorpicker\\dist\\js\\bootstrap-colorpicker.min.js",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/assets/modules/bootstrap-colorpicker/dist/js/bootstrap-colorpicker.min.js",
       "AssetKind": "All",
@@ -867,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\assets\\modules\\bootstrap-colorpicker\\dist\\js\\bootstrap-colorpicker.min.js"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\bootstrap-daterangepicker\\daterangepicker.css",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\bootstrap-daterangepicker\\daterangepicker.css",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/assets/modules/bootstrap-daterangepicker/daterangepicker.css",
       "AssetKind": "All",
@@ -884,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\assets\\modules\\bootstrap-daterangepicker\\daterangepicker.css"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\bootstrap-daterangepicker\\daterangepicker.js",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\bootstrap-daterangepicker\\daterangepicker.js",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/assets/modules/bootstrap-daterangepicker/daterangepicker.js",
       "AssetKind": "All",
@@ -901,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\assets\\modules\\bootstrap-daterangepicker\\daterangepicker.js"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\bootstrap-social\\bootstrap-social.css",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\bootstrap-social\\bootstrap-social.css",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/assets/modules/bootstrap-social/bootstrap-social.css",
       "AssetKind": "All",
@@ -918,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\assets\\modules\\bootstrap-social\\bootstrap-social.css"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\bootstrap-tagsinput\\dist\\bootstrap-tagsinput.css",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\bootstrap-tagsinput\\dist\\bootstrap-tagsinput.css",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/assets/modules/bootstrap-tagsinput/dist/bootstrap-tagsinput.css",
       "AssetKind": "All",
@@ -935,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\assets\\modules\\bootstrap-tagsinput\\dist\\bootstrap-tagsinput.css"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\bootstrap-tagsinput\\dist\\bootstrap-tagsinput.min.js",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\bootstrap-tagsinput\\dist\\bootstrap-tagsinput.min.js",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/assets/modules/bootstrap-tagsinput/dist/bootstrap-tagsinput.min.js",
       "AssetKind": "All",
@@ -952,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\assets\\modules\\bootstrap-tagsinput\\dist\\bootstrap-tagsinput.min.js"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\bootstrap-timepicker\\css\\bootstrap-timepicker.min.css",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\bootstrap-timepicker\\css\\bootstrap-timepicker.min.css",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/assets/modules/bootstrap-timepicker/css/bootstrap-timepicker.min.css",
       "AssetKind": "All",
@@ -969,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\assets\\modules\\bootstrap-timepicker\\css\\bootstrap-timepicker.min.css"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\bootstrap-timepicker\\js\\bootstrap-timepicker.min.js",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\bootstrap-timepicker\\js\\bootstrap-timepicker.min.js",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/assets/modules/bootstrap-timepicker/js/bootstrap-timepicker.min.js",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\assets\\modules\\bootstrap-timepicker\\js\\bootstrap-timepicker.min.js"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\chart.min.js",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\chart.min.js",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/assets/modules/chart.min.js",
       "AssetKind": "All",
@@ -1003,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\assets\\modules\\chart.min.js"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\charts-c3\\c3.min.css",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\charts-c3\\c3.min.css",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/assets/modules/charts-c3/c3.min.css",
       "AssetKind": "All",
@@ -1020,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\assets\\modules\\charts-c3\\c3.min.css"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\charts-c3\\c3.min.js",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\charts-c3\\c3.min.js",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/assets/modules/charts-c3/c3.min.js",
       "AssetKind": "All",
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\assets\\modules\\charts-c3\\c3.min.js"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\charts-c3\\d3.v3.min.js",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\charts-c3\\d3.v3.min.js",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/assets/modules/charts-c3/d3.v3.min.js",
       "AssetKind": "All",
@@ -1054,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\assets\\modules\\charts-c3\\d3.v3.min.js"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\chocolat\\dist\\css\\chocolat.css",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\chocolat\\dist\\css\\chocolat.css",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/assets/modules/chocolat/dist/css/chocolat.css",
       "AssetKind": "All",
@@ -1071,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\assets\\modules\\chocolat\\dist\\css\\chocolat.css"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\chocolat\\dist\\images\\close.png",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\chocolat\\dist\\images\\close.png",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/assets/modules/chocolat/dist/images/close.png",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\assets\\modules\\chocolat\\dist\\images\\close.png"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\chocolat\\dist\\images\\fullscreen.png",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\chocolat\\dist\\images\\fullscreen.png",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/assets/modules/chocolat/dist/images/fullscreen.png",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\assets\\modules\\chocolat\\dist\\images\\fullscreen.png"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\chocolat\\dist\\images\\left.png",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\chocolat\\dist\\images\\left.png",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/assets/modules/chocolat/dist/images/left.png",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\assets\\modules\\chocolat\\dist\\images\\left.png"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\chocolat\\dist\\images\\loader.gif",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\chocolat\\dist\\images\\loader.gif",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/assets/modules/chocolat/dist/images/loader.gif",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\assets\\modules\\chocolat\\dist\\images\\loader.gif"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\chocolat\\dist\\images\\right.png",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\chocolat\\dist\\images\\right.png",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/assets/modules/chocolat/dist/images/right.png",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\assets\\modules\\chocolat\\dist\\images\\right.png"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\chocolat\\dist\\js\\jquery.chocolat.min.js",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\chocolat\\dist\\js\\jquery.chocolat.min.js",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/assets/modules/chocolat/dist/js/jquery.chocolat.min.js",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\assets\\modules\\chocolat\\dist\\js\\jquery.chocolat.min.js"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\cleave-js\\dist\\addons\\cleave-phone.us.js",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\cleave-js\\dist\\addons\\cleave-phone.us.js",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/assets/modules/cleave-js/dist/addons/cleave-phone.us.js",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\assets\\modules\\cleave-js\\dist\\addons\\cleave-phone.us.js"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\cleave-js\\dist\\cleave.min.js",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\cleave-js\\dist\\cleave.min.js",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/assets/modules/cleave-js/dist/cleave.min.js",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\assets\\modules\\cleave-js\\dist\\cleave.min.js"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\codemirror\\lib\\codemirror.css",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\codemirror\\lib\\codemirror.css",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/assets/modules/codemirror/lib/codemirror.css",
       "AssetKind": "All",
@@ -1224,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\assets\\modules\\codemirror\\lib\\codemirror.css"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\codemirror\\lib\\codemirror.js",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\codemirror\\lib\\codemirror.js",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/assets/modules/codemirror/lib/codemirror.js",
       "AssetKind": "All",
@@ -1241,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\assets\\modules\\codemirror\\lib\\codemirror.js"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\codemirror\\mode\\javascript\\javascript.js",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\codemirror\\mode\\javascript\\javascript.js",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/assets/modules/codemirror/mode/javascript/javascript.js",
       "AssetKind": "All",
@@ -1258,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\assets\\modules\\codemirror\\mode\\javascript\\javascript.js"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\codemirror\\theme\\duotone-dark.css",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\codemirror\\theme\\duotone-dark.css",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/assets/modules/codemirror/theme/duotone-dark.css",
       "AssetKind": "All",
@@ -1275,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\assets\\modules\\codemirror\\theme\\duotone-dark.css"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\datatables\\datatables.min.css",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\datatables\\datatables.min.css",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/assets/modules/datatables/datatables.min.css",
       "AssetKind": "All",
@@ -1292,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\assets\\modules\\datatables\\datatables.min.css"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\datatables\\datatables.min.js",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\datatables\\datatables.min.js",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/assets/modules/datatables/datatables.min.js",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\assets\\modules\\datatables\\datatables.min.js"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\datatables\\DataTables-1.10.16\\css\\dataTables.bootstrap4.min.css",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\datatables\\DataTables-1.10.16\\css\\dataTables.bootstrap4.min.css",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/assets/modules/datatables/DataTables-1.10.16/css/dataTables.bootstrap4.min.css",
       "AssetKind": "All",
@@ -1326,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\assets\\modules\\datatables\\DataTables-1.10.16\\css\\dataTables.bootstrap4.min.css"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\datatables\\DataTables-1.10.16\\js\\dataTables.bootstrap4.min.js",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\datatables\\DataTables-1.10.16\\js\\dataTables.bootstrap4.min.js",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/assets/modules/datatables/DataTables-1.10.16/js/dataTables.bootstrap4.min.js",
       "AssetKind": "All",
@@ -1343,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\assets\\modules\\datatables\\DataTables-1.10.16\\js\\dataTables.bootstrap4.min.js"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\datatables\\Select-1.2.4\\css\\select.bootstrap4.min.css",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\datatables\\Select-1.2.4\\css\\select.bootstrap4.min.css",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/assets/modules/datatables/Select-1.2.4/css/select.bootstrap4.min.css",
       "AssetKind": "All",
@@ -1360,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\assets\\modules\\datatables\\Select-1.2.4\\css\\select.bootstrap4.min.css"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\datatables\\Select-1.2.4\\js\\dataTables.select.min.js",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\datatables\\Select-1.2.4\\js\\dataTables.select.min.js",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/assets/modules/datatables/Select-1.2.4/js/dataTables.select.min.js",
       "AssetKind": "All",
@@ -1377,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\assets\\modules\\datatables\\Select-1.2.4\\js\\dataTables.select.min.js"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\dropzonejs\\dropzone.css",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\dropzonejs\\dropzone.css",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/assets/modules/dropzonejs/dropzone.css",
       "AssetKind": "All",
@@ -1394,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\assets\\modules\\dropzonejs\\dropzone.css"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\dropzonejs\\min\\dropzone.min.js",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\dropzonejs\\min\\dropzone.min.js",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/assets/modules/dropzonejs/min/dropzone.min.js",
       "AssetKind": "All",
@@ -1411,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\assets\\modules\\dropzonejs\\min\\dropzone.min.js"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\echart\\echarts.min.js",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\echart\\echarts.min.js",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/assets/modules/echart/echarts.min.js",
       "AssetKind": "All",
@@ -1428,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\assets\\modules\\echart\\echarts.min.js"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\flag-icon-css\\css\\flag-icon.min.css",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\flag-icon-css\\css\\flag-icon.min.css",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/assets/modules/flag-icon-css/css/flag-icon.min.css",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\assets\\modules\\flag-icon-css\\css\\flag-icon.min.css"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\fontawesome\\css\\all.min.css",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\fontawesome\\css\\all.min.css",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/assets/modules/fontawesome/css/all.min.css",
       "AssetKind": "All",
@@ -1462,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\assets\\modules\\fontawesome\\css\\all.min.css"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\fullcalendar\\fullcalendar.min.css",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\fullcalendar\\fullcalendar.min.css",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/assets/modules/fullcalendar/fullcalendar.min.css",
       "AssetKind": "All",
@@ -1479,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\assets\\modules\\fullcalendar\\fullcalendar.min.css"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\fullcalendar\\fullcalendar.min.js",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\fullcalendar\\fullcalendar.min.js",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/assets/modules/fullcalendar/fullcalendar.min.js",
       "AssetKind": "All",
@@ -1496,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\assets\\modules\\fullcalendar\\fullcalendar.min.js"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\gmaps.js",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\gmaps.js",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/assets/modules/gmaps.js",
       "AssetKind": "All",
@@ -1513,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\assets\\modules\\gmaps.js"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\ionicons\\css\\ionicons.min.css",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\ionicons\\css\\ionicons.min.css",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/assets/modules/ionicons/css/ionicons.min.css",
       "AssetKind": "All",
@@ -1530,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\assets\\modules\\ionicons\\css\\ionicons.min.css"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\izitoast\\css\\iziToast.min.css",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\izitoast\\css\\iziToast.min.css",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/assets/modules/izitoast/css/iziToast.min.css",
       "AssetKind": "All",
@@ -1547,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\assets\\modules\\izitoast\\css\\iziToast.min.css"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\izitoast\\js\\iziToast.min.js",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\izitoast\\js\\iziToast.min.js",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/assets/modules/izitoast/js/iziToast.min.js",
       "AssetKind": "All",
@@ -1564,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\assets\\modules\\izitoast\\js\\iziToast.min.js"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\jquery.sparkline.min.js",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\jquery.sparkline.min.js",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/assets/modules/jquery.sparkline.min.js",
       "AssetKind": "All",
@@ -1581,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\assets\\modules\\jquery.sparkline.min.js"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\jquery-pwstrength\\jquery.pwstrength.min.js",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\jquery-pwstrength\\jquery.pwstrength.min.js",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/assets/modules/jquery-pwstrength/jquery.pwstrength.min.js",
       "AssetKind": "All",
@@ -1598,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\assets\\modules\\jquery-pwstrength\\jquery.pwstrength.min.js"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\jquery-selectric\\jquery.selectric.min.js",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\jquery-selectric\\jquery.selectric.min.js",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/assets/modules/jquery-selectric/jquery.selectric.min.js",
       "AssetKind": "All",
@@ -1615,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\assets\\modules\\jquery-selectric\\jquery.selectric.min.js"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\jquery-selectric\\selectric.css",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\jquery-selectric\\selectric.css",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/assets/modules/jquery-selectric/selectric.css",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\assets\\modules\\jquery-selectric\\selectric.css"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\jquery-ui\\jquery-ui.min.js",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\jquery-ui\\jquery-ui.min.js",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/assets/modules/jquery-ui/jquery-ui.min.js",
       "AssetKind": "All",
@@ -1649,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\assets\\modules\\jquery-ui\\jquery-ui.min.js"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\jqvmap\\dist\\jquery.vmap.min.js",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\jqvmap\\dist\\jquery.vmap.min.js",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/assets/modules/jqvmap/dist/jquery.vmap.min.js",
       "AssetKind": "All",
@@ -1666,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\assets\\modules\\jqvmap\\dist\\jquery.vmap.min.js"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\jqvmap\\dist\\jqvmap.min.css",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\jqvmap\\dist\\jqvmap.min.css",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/assets/modules/jqvmap/dist/jqvmap.min.css",
       "AssetKind": "All",
@@ -1683,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\assets\\modules\\jqvmap\\dist\\jqvmap.min.css"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\jqvmap\\dist\\maps\\jquery.vmap.germany.js",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\jqvmap\\dist\\maps\\jquery.vmap.germany.js",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/assets/modules/jqvmap/dist/maps/jquery.vmap.germany.js",
       "AssetKind": "All",
@@ -1700,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\assets\\modules\\jqvmap\\dist\\maps\\jquery.vmap.germany.js"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\jqvmap\\dist\\maps\\jquery.vmap.russia.js",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\jqvmap\\dist\\maps\\jquery.vmap.russia.js",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/assets/modules/jqvmap/dist/maps/jquery.vmap.russia.js",
       "AssetKind": "All",
@@ -1717,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\assets\\modules\\jqvmap\\dist\\maps\\jquery.vmap.russia.js"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\jqvmap\\dist\\maps\\jquery.vmap.USA.html",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\jqvmap\\dist\\maps\\jquery.vmap.USA.html",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/assets/modules/jqvmap/dist/maps/jquery.vmap.USA.html",
       "AssetKind": "All",
@@ -1734,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\assets\\modules\\jqvmap\\dist\\maps\\jquery.vmap.USA.html"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\jqvmap\\dist\\maps\\jquery.vmap.world.js",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\jqvmap\\dist\\maps\\jquery.vmap.world.js",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/assets/modules/jqvmap/dist/maps/jquery.vmap.world.js",
       "AssetKind": "All",
@@ -1751,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\assets\\modules\\jqvmap\\dist\\maps\\jquery.vmap.world.js"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\knobjs\\knob.min.js",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\knobjs\\knob.min.js",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/assets/modules/knobjs/knob.min.js",
       "AssetKind": "All",
@@ -1768,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\assets\\modules\\knobjs\\knob.min.js"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\owlcarousel2\\dist\\assets\\owl.carousel.min.css",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\owlcarousel2\\dist\\assets\\owl.carousel.min.css",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/assets/modules/owlcarousel2/dist/assets/owl.carousel.min.css",
       "AssetKind": "All",
@@ -1785,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\assets\\modules\\owlcarousel2\\dist\\assets\\owl.carousel.min.css"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\owlcarousel2\\dist\\assets\\owl.theme.default.min.css",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\owlcarousel2\\dist\\assets\\owl.theme.default.min.css",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/assets/modules/owlcarousel2/dist/assets/owl.theme.default.min.css",
       "AssetKind": "All",
@@ -1802,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\assets\\modules\\owlcarousel2\\dist\\assets\\owl.theme.default.min.css"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\owlcarousel2\\dist\\assets\\owl.video.play.png",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\owlcarousel2\\dist\\assets\\owl.video.play.png",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/assets/modules/owlcarousel2/dist/assets/owl.video.play.png",
       "AssetKind": "All",
@@ -1819,10 +1819,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\assets\\modules\\owlcarousel2\\dist\\assets\\owl.video.play.png"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\owlcarousel2\\dist\\owl.carousel.min.js",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\owlcarousel2\\dist\\owl.carousel.min.js",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/assets/modules/owlcarousel2/dist/owl.carousel.min.js",
       "AssetKind": "All",
@@ -1836,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\assets\\modules\\owlcarousel2\\dist\\owl.carousel.min.js"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\prism\\prism.css",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\prism\\prism.css",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/assets/modules/prism/prism.css",
       "AssetKind": "All",
@@ -1853,10 +1853,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\assets\\modules\\prism\\prism.css"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\prism\\prism.js",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\prism\\prism.js",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/assets/modules/prism/prism.js",
       "AssetKind": "All",
@@ -1870,10 +1870,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\assets\\modules\\prism\\prism.js"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\select2\\dist\\css\\select2.min.css",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\select2\\dist\\css\\select2.min.css",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/assets/modules/select2/dist/css/select2.min.css",
       "AssetKind": "All",
@@ -1887,10 +1887,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\assets\\modules\\select2\\dist\\css\\select2.min.css"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\select2\\dist\\js\\select2.full.min.js",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\select2\\dist\\js\\select2.full.min.js",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/assets/modules/select2/dist/js/select2.full.min.js",
       "AssetKind": "All",
@@ -1904,10 +1904,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\assets\\modules\\select2\\dist\\js\\select2.full.min.js"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\simple-weather\\jquery.simpleWeather.min.js",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\simple-weather\\jquery.simpleWeather.min.js",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/assets/modules/simple-weather/jquery.simpleWeather.min.js",
       "AssetKind": "All",
@@ -1921,10 +1921,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\assets\\modules\\simple-weather\\jquery.simpleWeather.min.js"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\summernote\\font\\summernote4c4d.eot",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\summernote\\font\\summernote4c4d.eot",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/assets/modules/summernote/font/summernote4c4d.eot",
       "AssetKind": "All",
@@ -1938,10 +1938,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\assets\\modules\\summernote\\font\\summernote4c4d.eot"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\summernote\\font\\summernote4c4d.ttf",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\summernote\\font\\summernote4c4d.ttf",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/assets/modules/summernote/font/summernote4c4d.ttf",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\assets\\modules\\summernote\\font\\summernote4c4d.ttf"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\summernote\\font\\summernote4c4d.woff",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\summernote\\font\\summernote4c4d.woff",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/assets/modules/summernote/font/summernote4c4d.woff",
       "AssetKind": "All",
@@ -1972,10 +1972,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\assets\\modules\\summernote\\font\\summernote4c4d.woff"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\summernote\\font\\summernoted41d.eot",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\summernote\\font\\summernoted41d.eot",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/assets/modules/summernote/font/summernoted41d.eot",
       "AssetKind": "All",
@@ -1989,10 +1989,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\assets\\modules\\summernote\\font\\summernoted41d.eot"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\summernote\\summernote-bs4.css",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\summernote\\summernote-bs4.css",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/assets/modules/summernote/summernote-bs4.css",
       "AssetKind": "All",
@@ -2006,10 +2006,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\assets\\modules\\summernote\\summernote-bs4.css"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\summernote\\summernote-bs4.js",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\summernote\\summernote-bs4.js",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/assets/modules/summernote/summernote-bs4.js",
       "AssetKind": "All",
@@ -2023,10 +2023,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\assets\\modules\\summernote\\summernote-bs4.js"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\sweetalert\\sweetalert.min.js",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\sweetalert\\sweetalert.min.js",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/assets/modules/sweetalert/sweetalert.min.js",
       "AssetKind": "All",
@@ -2040,10 +2040,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\assets\\modules\\sweetalert\\sweetalert.min.js"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\upload-preview\\assets\\js\\jquery.uploadPreview.min.js",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\upload-preview\\assets\\js\\jquery.uploadPreview.min.js",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/assets/modules/upload-preview/assets/js/jquery.uploadPreview.min.js",
       "AssetKind": "All",
@@ -2057,10 +2057,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\assets\\modules\\upload-preview\\assets\\js\\jquery.uploadPreview.min.js"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\weather-icon\\css\\weather-icons.min.css",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\weather-icon\\css\\weather-icons.min.css",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/assets/modules/weather-icon/css/weather-icons.min.css",
       "AssetKind": "All",
@@ -2074,10 +2074,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\assets\\modules\\weather-icon\\css\\weather-icons.min.css"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\weather-icon\\css\\weather-icons-wind.min.css",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\weather-icon\\css\\weather-icons-wind.min.css",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/assets/modules/weather-icon/css/weather-icons-wind.min.css",
       "AssetKind": "All",
@@ -2091,10 +2091,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\assets\\modules\\weather-icon\\css\\weather-icons-wind.min.css"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\CodiePie.js",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\CodiePie.js",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/js/CodiePie.js",
       "AssetKind": "All",
@@ -2108,10 +2108,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\js\\CodiePie.js"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\custom.js",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\custom.js",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/js/custom.js",
       "AssetKind": "All",
@@ -2125,10 +2125,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\js\\custom.js"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\auth-register.js",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\auth-register.js",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/js/page/auth-register.js",
       "AssetKind": "All",
@@ -2142,10 +2142,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\js\\page\\auth-register.js"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\bootstrap-modal.js",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\bootstrap-modal.js",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/js/page/bootstrap-modal.js",
       "AssetKind": "All",
@@ -2159,10 +2159,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\js\\page\\bootstrap-modal.js"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\components-chat-box.js",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\components-chat-box.js",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/js/page/components-chat-box.js",
       "AssetKind": "All",
@@ -2176,10 +2176,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\js\\page\\components-chat-box.js"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\components-multiple-upload.js",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\components-multiple-upload.js",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/js/page/components-multiple-upload.js",
       "AssetKind": "All",
@@ -2193,10 +2193,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\js\\page\\components-multiple-upload.js"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\components-statistic.js",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\components-statistic.js",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/js/page/components-statistic.js",
       "AssetKind": "All",
@@ -2210,10 +2210,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\js\\page\\components-statistic.js"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\components-table.js",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\components-table.js",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/js/page/components-table.js",
       "AssetKind": "All",
@@ -2227,10 +2227,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\js\\page\\components-table.js"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\components-user.js",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\components-user.js",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/js/page/components-user.js",
       "AssetKind": "All",
@@ -2244,10 +2244,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\js\\page\\components-user.js"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\features-post-create.js",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\features-post-create.js",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/js/page/features-post-create.js",
       "AssetKind": "All",
@@ -2261,10 +2261,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\js\\page\\features-post-create.js"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\features-posts.js",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\features-posts.js",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/js/page/features-posts.js",
       "AssetKind": "All",
@@ -2278,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\js\\page\\features-posts.js"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\forms-advanced-forms.js",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\forms-advanced-forms.js",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/js/page/forms-advanced-forms.js",
       "AssetKind": "All",
@@ -2295,10 +2295,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\js\\page\\forms-advanced-forms.js"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\gmaps-advanced-route.js",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\gmaps-advanced-route.js",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/js/page/gmaps-advanced-route.js",
       "AssetKind": "All",
@@ -2312,10 +2312,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\js\\page\\gmaps-advanced-route.js"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\gmaps-draggable-marker.js",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\gmaps-draggable-marker.js",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/js/page/gmaps-draggable-marker.js",
       "AssetKind": "All",
@@ -2329,10 +2329,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\js\\page\\gmaps-draggable-marker.js"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\gmaps-geocoding.js",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\gmaps-geocoding.js",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/js/page/gmaps-geocoding.js",
       "AssetKind": "All",
@@ -2346,10 +2346,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\js\\page\\gmaps-geocoding.js"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\gmaps-geolocation.js",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\gmaps-geolocation.js",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/js/page/gmaps-geolocation.js",
       "AssetKind": "All",
@@ -2363,10 +2363,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\js\\page\\gmaps-geolocation.js"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\gmaps-marker.js",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\gmaps-marker.js",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/js/page/gmaps-marker.js",
       "AssetKind": "All",
@@ -2380,10 +2380,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\js\\page\\gmaps-marker.js"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\gmaps-multiple-marker.js",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\gmaps-multiple-marker.js",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/js/page/gmaps-multiple-marker.js",
       "AssetKind": "All",
@@ -2397,10 +2397,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\js\\page\\gmaps-multiple-marker.js"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\gmaps-route.js",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\gmaps-route.js",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/js/page/gmaps-route.js",
       "AssetKind": "All",
@@ -2414,10 +2414,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\js\\page\\gmaps-route.js"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\gmaps-simple.js",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\gmaps-simple.js",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/js/page/gmaps-simple.js",
       "AssetKind": "All",
@@ -2431,10 +2431,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\js\\page\\gmaps-simple.js"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\index.js",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\index.js",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/js/page/index.js",
       "AssetKind": "All",
@@ -2448,10 +2448,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\js\\page\\index.js"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\index-0.js",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\index-0.js",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/js/page/index-0.js",
       "AssetKind": "All",
@@ -2465,10 +2465,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\js\\page\\index-0.js"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\modules-apex.js",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\modules-apex.js",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/js/page/modules-apex.js",
       "AssetKind": "All",
@@ -2482,10 +2482,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\js\\page\\modules-apex.js"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\modules-c3.js",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\modules-c3.js",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/js/page/modules-c3.js",
       "AssetKind": "All",
@@ -2499,10 +2499,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\js\\page\\modules-c3.js"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\modules-calendar.js",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\modules-calendar.js",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/js/page/modules-calendar.js",
       "AssetKind": "All",
@@ -2516,10 +2516,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\js\\page\\modules-calendar.js"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\modules-chartjs.js",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\modules-chartjs.js",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/js/page/modules-chartjs.js",
       "AssetKind": "All",
@@ -2533,10 +2533,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\js\\page\\modules-chartjs.js"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\modules-datatables.js",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\modules-datatables.js",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/js/page/modules-datatables.js",
       "AssetKind": "All",
@@ -2550,10 +2550,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\js\\page\\modules-datatables.js"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\modules-echart.js",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\modules-echart.js",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/js/page/modules-echart.js",
       "AssetKind": "All",
@@ -2567,10 +2567,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\js\\page\\modules-echart.js"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\modules-ion-icons.js",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\modules-ion-icons.js",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/js/page/modules-ion-icons.js",
       "AssetKind": "All",
@@ -2584,10 +2584,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\js\\page\\modules-ion-icons.js"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\modules-knobjs.js",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\modules-knobjs.js",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/js/page/modules-knobjs.js",
       "AssetKind": "All",
@@ -2601,10 +2601,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\js\\page\\modules-knobjs.js"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\modules-slider.js",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\modules-slider.js",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/js/page/modules-slider.js",
       "AssetKind": "All",
@@ -2618,10 +2618,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\js\\page\\modules-slider.js"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\modules-sparkline.js",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\modules-sparkline.js",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/js/page/modules-sparkline.js",
       "AssetKind": "All",
@@ -2635,10 +2635,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\js\\page\\modules-sparkline.js"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\modules-sweetalert.js",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\modules-sweetalert.js",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/js/page/modules-sweetalert.js",
       "AssetKind": "All",
@@ -2652,10 +2652,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\js\\page\\modules-sweetalert.js"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\modules-toastr.js",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\modules-toastr.js",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/js/page/modules-toastr.js",
       "AssetKind": "All",
@@ -2669,10 +2669,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\js\\page\\modules-toastr.js"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\modules-vector-map.js",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\modules-vector-map.js",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/js/page/modules-vector-map.js",
       "AssetKind": "All",
@@ -2686,10 +2686,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\js\\page\\modules-vector-map.js"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\utilities-contact.js",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\utilities-contact.js",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/js/page/utilities-contact.js",
       "AssetKind": "All",
@@ -2703,10 +2703,10 @@
       "OriginalItemSpec": "wwwroot\\adminLibs\\js\\page\\utilities-contact.js"
     },
     {
-      "Identity": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\scripts.js",
+      "Identity": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\scripts.js",
       "SourceId": "codiePieFiza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\",
       "BasePath": "_content/codiePieFiza",
       "RelativePath": "adminLibs/js/scripts.js",
       "AssetKind": "All",

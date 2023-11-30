@@ -1,635 +1,635 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\codiePieFiza.bundle.scp.css",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\codiePieFiza.bundle.scp.css",
       "PackagePath": "staticwebassets\\codiePieFiza.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\asset\\img\\unsplash\\andre-benz-1214056-unsplash.html",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\asset\\img\\unsplash\\andre-benz-1214056-unsplash.html",
       "PackagePath": "staticwebassets\\adminLibs\\asset\\img\\unsplash\\andre-benz-1214056-unsplash.html"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\asset\\img\\unsplash\\eberhard-grossgasteiger-1207565-unsplash.html",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\asset\\img\\unsplash\\eberhard-grossgasteiger-1207565-unsplash.html",
       "PackagePath": "staticwebassets\\adminLibs\\asset\\img\\unsplash\\eberhard-grossgasteiger-1207565-unsplash.html"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\bundles\\lib.vendor.bundle.js",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\bundles\\lib.vendor.bundle.js",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\bundles\\lib.vendor.bundle.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\css\\components.min.css",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\css\\components.min.css",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\css\\components.min.css"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\css\\style.min.css",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\css\\style.min.css",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\css\\style.min.css"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\americanexpress.png",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\americanexpress.png",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\img\\americanexpress.png"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\avatar\\avatar-1.png",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\avatar\\avatar-1.png",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\img\\avatar\\avatar-1.png"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\avatar\\avatar-2.png",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\avatar\\avatar-2.png",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\img\\avatar\\avatar-2.png"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\avatar\\avatar-3.png",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\avatar\\avatar-3.png",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\img\\avatar\\avatar-3.png"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\avatar\\avatar-4.png",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\avatar\\avatar-4.png",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\img\\avatar\\avatar-4.png"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\avatar\\avatar-5.png",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\avatar\\avatar-5.png",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\img\\avatar\\avatar-5.png"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\browsers\\chrome.png",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\browsers\\chrome.png",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\img\\browsers\\chrome.png"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\browsers\\firefox.png",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\browsers\\firefox.png",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\img\\browsers\\firefox.png"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\browsers\\internet-explorer.png",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\browsers\\internet-explorer.png",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\img\\browsers\\internet-explorer.png"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\browsers\\opera.png",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\browsers\\opera.png",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\img\\browsers\\opera.png"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\browsers\\safari.png",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\browsers\\safari.png",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\img\\browsers\\safari.png"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\dinersclub.png",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\dinersclub.png",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\img\\dinersclub.png"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\discover.png",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\discover.png",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\img\\discover.png"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\example-image-50.jpg",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\example-image-50.jpg",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\img\\example-image-50.jpg"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\example-image.jpg",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\example-image.jpg",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\img\\example-image.jpg"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\jcb.png",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\jcb.png",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\img\\jcb.png"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\mastercard.png",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\mastercard.png",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\img\\mastercard.png"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\news\\img01.jpg",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\news\\img01.jpg",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\img\\news\\img01.jpg"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\news\\img02.jpg",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\news\\img02.jpg",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\img\\news\\img02.jpg"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\news\\img03.jpg",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\news\\img03.jpg",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\img\\news\\img03.jpg"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\news\\img04.jpg",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\news\\img04.jpg",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\img\\news\\img04.jpg"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\news\\img05.jpg",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\news\\img05.jpg",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\img\\news\\img05.jpg"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\news\\img06.jpg",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\news\\img06.jpg",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\img\\news\\img06.jpg"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\news\\img07.jpg",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\news\\img07.jpg",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\img\\news\\img07.jpg"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\news\\img08.jpg",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\news\\img08.jpg",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\img\\news\\img08.jpg"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\news\\img09.jpg",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\news\\img09.jpg",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\img\\news\\img09.jpg"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\news\\img10.jpg",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\news\\img10.jpg",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\img\\news\\img10.jpg"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\news\\img12.jpg",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\news\\img12.jpg",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\img\\news\\img12.jpg"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\news\\img13.jpg",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\news\\img13.jpg",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\img\\news\\img13.jpg"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\news\\img14.jpg",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\news\\img14.jpg",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\img\\news\\img14.jpg"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\news\\img15.jpg",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\news\\img15.jpg",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\img\\news\\img15.jpg"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\paypal.png",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\paypal.png",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\img\\paypal.png"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\products\\product-1-50.png",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\products\\product-1-50.png",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\img\\products\\product-1-50.png"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\products\\product-2-50.png",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\products\\product-2-50.png",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\img\\products\\product-2-50.png"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\products\\product-3-50.png",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\products\\product-3-50.png",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\img\\products\\product-3-50.png"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\products\\product-4-50.png",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\products\\product-4-50.png",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\img\\products\\product-4-50.png"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\products\\product-5-50.png",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\products\\product-5-50.png",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\img\\products\\product-5-50.png"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\visa.png",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\visa.png",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\img\\visa.png"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\js\\page\\features-setting-detail.html",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\js\\page\\features-setting-detail.html",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\js\\page\\features-setting-detail.html"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\apexcharts\\apexcharts.min.js",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\apexcharts\\apexcharts.min.js",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\apexcharts\\apexcharts.min.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\bootstrap-colorpicker\\dist\\css\\bootstrap-colorpicker.min.css",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\bootstrap-colorpicker\\dist\\css\\bootstrap-colorpicker.min.css",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\bootstrap-colorpicker\\dist\\css\\bootstrap-colorpicker.min.css"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\bootstrap-colorpicker\\dist\\js\\bootstrap-colorpicker.min.js",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\bootstrap-colorpicker\\dist\\js\\bootstrap-colorpicker.min.js",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\bootstrap-colorpicker\\dist\\js\\bootstrap-colorpicker.min.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\bootstrap-daterangepicker\\daterangepicker.css",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\bootstrap-daterangepicker\\daterangepicker.css",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\bootstrap-daterangepicker\\daterangepicker.css"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\bootstrap-daterangepicker\\daterangepicker.js",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\bootstrap-daterangepicker\\daterangepicker.js",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\bootstrap-daterangepicker\\daterangepicker.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\bootstrap-social\\bootstrap-social.css",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\bootstrap-social\\bootstrap-social.css",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\bootstrap-social\\bootstrap-social.css"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\bootstrap-tagsinput\\dist\\bootstrap-tagsinput.css",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\bootstrap-tagsinput\\dist\\bootstrap-tagsinput.css",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\bootstrap-tagsinput\\dist\\bootstrap-tagsinput.css"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\bootstrap-tagsinput\\dist\\bootstrap-tagsinput.min.js",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\bootstrap-tagsinput\\dist\\bootstrap-tagsinput.min.js",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\bootstrap-tagsinput\\dist\\bootstrap-tagsinput.min.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\bootstrap-timepicker\\css\\bootstrap-timepicker.min.css",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\bootstrap-timepicker\\css\\bootstrap-timepicker.min.css",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\bootstrap-timepicker\\css\\bootstrap-timepicker.min.css"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\bootstrap-timepicker\\js\\bootstrap-timepicker.min.js",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\bootstrap-timepicker\\js\\bootstrap-timepicker.min.js",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\bootstrap-timepicker\\js\\bootstrap-timepicker.min.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\bootstrap\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\bootstrap\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\bootstrap\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\chart.min.js",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\chart.min.js",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\chart.min.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\charts-c3\\c3.min.css",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\charts-c3\\c3.min.css",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\charts-c3\\c3.min.css"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\charts-c3\\c3.min.js",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\charts-c3\\c3.min.js",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\charts-c3\\c3.min.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\charts-c3\\d3.v3.min.js",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\charts-c3\\d3.v3.min.js",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\charts-c3\\d3.v3.min.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\chocolat\\dist\\css\\chocolat.css",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\chocolat\\dist\\css\\chocolat.css",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\chocolat\\dist\\css\\chocolat.css"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\chocolat\\dist\\images\\close.png",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\chocolat\\dist\\images\\close.png",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\chocolat\\dist\\images\\close.png"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\chocolat\\dist\\images\\fullscreen.png",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\chocolat\\dist\\images\\fullscreen.png",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\chocolat\\dist\\images\\fullscreen.png"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\chocolat\\dist\\images\\left.png",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\chocolat\\dist\\images\\left.png",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\chocolat\\dist\\images\\left.png"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\chocolat\\dist\\images\\loader.gif",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\chocolat\\dist\\images\\loader.gif",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\chocolat\\dist\\images\\loader.gif"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\chocolat\\dist\\images\\right.png",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\chocolat\\dist\\images\\right.png",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\chocolat\\dist\\images\\right.png"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\chocolat\\dist\\js\\jquery.chocolat.min.js",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\chocolat\\dist\\js\\jquery.chocolat.min.js",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\chocolat\\dist\\js\\jquery.chocolat.min.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\cleave-js\\dist\\addons\\cleave-phone.us.js",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\cleave-js\\dist\\addons\\cleave-phone.us.js",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\cleave-js\\dist\\addons\\cleave-phone.us.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\cleave-js\\dist\\cleave.min.js",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\cleave-js\\dist\\cleave.min.js",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\cleave-js\\dist\\cleave.min.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\codemirror\\lib\\codemirror.css",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\codemirror\\lib\\codemirror.css",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\codemirror\\lib\\codemirror.css"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\codemirror\\lib\\codemirror.js",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\codemirror\\lib\\codemirror.js",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\codemirror\\lib\\codemirror.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\codemirror\\mode\\javascript\\javascript.js",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\codemirror\\mode\\javascript\\javascript.js",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\codemirror\\mode\\javascript\\javascript.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\codemirror\\theme\\duotone-dark.css",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\codemirror\\theme\\duotone-dark.css",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\codemirror\\theme\\duotone-dark.css"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\datatables\\DataTables-1.10.16\\css\\dataTables.bootstrap4.min.css",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\datatables\\DataTables-1.10.16\\css\\dataTables.bootstrap4.min.css",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\datatables\\DataTables-1.10.16\\css\\dataTables.bootstrap4.min.css"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\datatables\\DataTables-1.10.16\\js\\dataTables.bootstrap4.min.js",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\datatables\\DataTables-1.10.16\\js\\dataTables.bootstrap4.min.js",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\datatables\\DataTables-1.10.16\\js\\dataTables.bootstrap4.min.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\datatables\\Select-1.2.4\\css\\select.bootstrap4.min.css",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\datatables\\Select-1.2.4\\css\\select.bootstrap4.min.css",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\datatables\\Select-1.2.4\\css\\select.bootstrap4.min.css"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\datatables\\Select-1.2.4\\js\\dataTables.select.min.js",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\datatables\\Select-1.2.4\\js\\dataTables.select.min.js",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\datatables\\Select-1.2.4\\js\\dataTables.select.min.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\datatables\\datatables.min.css",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\datatables\\datatables.min.css",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\datatables\\datatables.min.css"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\datatables\\datatables.min.js",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\datatables\\datatables.min.js",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\datatables\\datatables.min.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\dropzonejs\\dropzone.css",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\dropzonejs\\dropzone.css",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\dropzonejs\\dropzone.css"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\dropzonejs\\min\\dropzone.min.js",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\dropzonejs\\min\\dropzone.min.js",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\dropzonejs\\min\\dropzone.min.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\echart\\echarts.min.js",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\echart\\echarts.min.js",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\echart\\echarts.min.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\flag-icon-css\\css\\flag-icon.min.css",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\flag-icon-css\\css\\flag-icon.min.css",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\flag-icon-css\\css\\flag-icon.min.css"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\fontawesome\\css\\all.min.css",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\fontawesome\\css\\all.min.css",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\fontawesome\\css\\all.min.css"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\fullcalendar\\fullcalendar.min.css",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\fullcalendar\\fullcalendar.min.css",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\fullcalendar\\fullcalendar.min.css"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\fullcalendar\\fullcalendar.min.js",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\fullcalendar\\fullcalendar.min.js",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\fullcalendar\\fullcalendar.min.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\gmaps.js",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\gmaps.js",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\gmaps.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\ionicons\\css\\ionicons.min.css",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\ionicons\\css\\ionicons.min.css",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\ionicons\\css\\ionicons.min.css"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\izitoast\\css\\iziToast.min.css",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\izitoast\\css\\iziToast.min.css",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\izitoast\\css\\iziToast.min.css"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\izitoast\\js\\iziToast.min.js",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\izitoast\\js\\iziToast.min.js",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\izitoast\\js\\iziToast.min.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\jquery-pwstrength\\jquery.pwstrength.min.js",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\jquery-pwstrength\\jquery.pwstrength.min.js",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\jquery-pwstrength\\jquery.pwstrength.min.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\jquery-selectric\\jquery.selectric.min.js",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\jquery-selectric\\jquery.selectric.min.js",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\jquery-selectric\\jquery.selectric.min.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\jquery-selectric\\selectric.css",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\jquery-selectric\\selectric.css",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\jquery-selectric\\selectric.css"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\jquery-ui\\jquery-ui.min.js",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\jquery-ui\\jquery-ui.min.js",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\jquery-ui\\jquery-ui.min.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\jquery.sparkline.min.js",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\jquery.sparkline.min.js",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\jquery.sparkline.min.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\jqvmap\\dist\\jquery.vmap.min.js",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\jqvmap\\dist\\jquery.vmap.min.js",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\jqvmap\\dist\\jquery.vmap.min.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\jqvmap\\dist\\jqvmap.min.css",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\jqvmap\\dist\\jqvmap.min.css",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\jqvmap\\dist\\jqvmap.min.css"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\jqvmap\\dist\\maps\\jquery.vmap.USA.html",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\jqvmap\\dist\\maps\\jquery.vmap.USA.html",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\jqvmap\\dist\\maps\\jquery.vmap.USA.html"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\jqvmap\\dist\\maps\\jquery.vmap.germany.js",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\jqvmap\\dist\\maps\\jquery.vmap.germany.js",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\jqvmap\\dist\\maps\\jquery.vmap.germany.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\jqvmap\\dist\\maps\\jquery.vmap.russia.js",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\jqvmap\\dist\\maps\\jquery.vmap.russia.js",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\jqvmap\\dist\\maps\\jquery.vmap.russia.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\jqvmap\\dist\\maps\\jquery.vmap.world.js",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\jqvmap\\dist\\maps\\jquery.vmap.world.js",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\jqvmap\\dist\\maps\\jquery.vmap.world.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\knobjs\\knob.min.js",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\knobjs\\knob.min.js",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\knobjs\\knob.min.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\owlcarousel2\\dist\\assets\\owl.carousel.min.css",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\owlcarousel2\\dist\\assets\\owl.carousel.min.css",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\owlcarousel2\\dist\\assets\\owl.carousel.min.css"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\owlcarousel2\\dist\\assets\\owl.theme.default.min.css",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\owlcarousel2\\dist\\assets\\owl.theme.default.min.css",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\owlcarousel2\\dist\\assets\\owl.theme.default.min.css"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\owlcarousel2\\dist\\assets\\owl.video.play.png",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\owlcarousel2\\dist\\assets\\owl.video.play.png",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\owlcarousel2\\dist\\assets\\owl.video.play.png"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\owlcarousel2\\dist\\owl.carousel.min.js",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\owlcarousel2\\dist\\owl.carousel.min.js",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\owlcarousel2\\dist\\owl.carousel.min.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\prism\\prism.css",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\prism\\prism.css",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\prism\\prism.css"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\prism\\prism.js",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\prism\\prism.js",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\prism\\prism.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\select2\\dist\\css\\select2.min.css",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\select2\\dist\\css\\select2.min.css",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\select2\\dist\\css\\select2.min.css"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\select2\\dist\\js\\select2.full.min.js",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\select2\\dist\\js\\select2.full.min.js",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\select2\\dist\\js\\select2.full.min.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\simple-weather\\jquery.simpleWeather.min.js",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\simple-weather\\jquery.simpleWeather.min.js",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\simple-weather\\jquery.simpleWeather.min.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\summernote\\font\\summernote4c4d.eot",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\summernote\\font\\summernote4c4d.eot",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\summernote\\font\\summernote4c4d.eot"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\summernote\\font\\summernote4c4d.ttf",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\summernote\\font\\summernote4c4d.ttf",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\summernote\\font\\summernote4c4d.ttf"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\summernote\\font\\summernote4c4d.woff",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\summernote\\font\\summernote4c4d.woff",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\summernote\\font\\summernote4c4d.woff"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\summernote\\font\\summernoted41d.eot",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\summernote\\font\\summernoted41d.eot",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\summernote\\font\\summernoted41d.eot"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\summernote\\summernote-bs4.css",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\summernote\\summernote-bs4.css",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\summernote\\summernote-bs4.css"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\summernote\\summernote-bs4.js",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\summernote\\summernote-bs4.js",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\summernote\\summernote-bs4.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\sweetalert\\sweetalert.min.js",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\sweetalert\\sweetalert.min.js",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\sweetalert\\sweetalert.min.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\upload-preview\\assets\\js\\jquery.uploadPreview.min.js",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\upload-preview\\assets\\js\\jquery.uploadPreview.min.js",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\upload-preview\\assets\\js\\jquery.uploadPreview.min.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\weather-icon\\css\\weather-icons-wind.min.css",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\weather-icon\\css\\weather-icons-wind.min.css",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\weather-icon\\css\\weather-icons-wind.min.css"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\weather-icon\\css\\weather-icons.min.css",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\weather-icon\\css\\weather-icons.min.css",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\weather-icon\\css\\weather-icons.min.css"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\CodiePie.js",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\CodiePie.js",
       "PackagePath": "staticwebassets\\adminLibs\\js\\CodiePie.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\custom.js",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\custom.js",
       "PackagePath": "staticwebassets\\adminLibs\\js\\custom.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\auth-register.js",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\auth-register.js",
       "PackagePath": "staticwebassets\\adminLibs\\js\\page\\auth-register.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\bootstrap-modal.js",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\bootstrap-modal.js",
       "PackagePath": "staticwebassets\\adminLibs\\js\\page\\bootstrap-modal.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\components-chat-box.js",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\components-chat-box.js",
       "PackagePath": "staticwebassets\\adminLibs\\js\\page\\components-chat-box.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\components-multiple-upload.js",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\components-multiple-upload.js",
       "PackagePath": "staticwebassets\\adminLibs\\js\\page\\components-multiple-upload.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\components-statistic.js",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\components-statistic.js",
       "PackagePath": "staticwebassets\\adminLibs\\js\\page\\components-statistic.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\components-table.js",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\components-table.js",
       "PackagePath": "staticwebassets\\adminLibs\\js\\page\\components-table.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\components-user.js",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\components-user.js",
       "PackagePath": "staticwebassets\\adminLibs\\js\\page\\components-user.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\features-post-create.js",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\features-post-create.js",
       "PackagePath": "staticwebassets\\adminLibs\\js\\page\\features-post-create.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\features-posts.js",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\features-posts.js",
       "PackagePath": "staticwebassets\\adminLibs\\js\\page\\features-posts.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\forms-advanced-forms.js",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\forms-advanced-forms.js",
       "PackagePath": "staticwebassets\\adminLibs\\js\\page\\forms-advanced-forms.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\gmaps-advanced-route.js",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\gmaps-advanced-route.js",
       "PackagePath": "staticwebassets\\adminLibs\\js\\page\\gmaps-advanced-route.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\gmaps-draggable-marker.js",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\gmaps-draggable-marker.js",
       "PackagePath": "staticwebassets\\adminLibs\\js\\page\\gmaps-draggable-marker.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\gmaps-geocoding.js",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\gmaps-geocoding.js",
       "PackagePath": "staticwebassets\\adminLibs\\js\\page\\gmaps-geocoding.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\gmaps-geolocation.js",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\gmaps-geolocation.js",
       "PackagePath": "staticwebassets\\adminLibs\\js\\page\\gmaps-geolocation.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\gmaps-marker.js",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\gmaps-marker.js",
       "PackagePath": "staticwebassets\\adminLibs\\js\\page\\gmaps-marker.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\gmaps-multiple-marker.js",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\gmaps-multiple-marker.js",
       "PackagePath": "staticwebassets\\adminLibs\\js\\page\\gmaps-multiple-marker.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\gmaps-route.js",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\gmaps-route.js",
       "PackagePath": "staticwebassets\\adminLibs\\js\\page\\gmaps-route.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\gmaps-simple.js",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\gmaps-simple.js",
       "PackagePath": "staticwebassets\\adminLibs\\js\\page\\gmaps-simple.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\index-0.js",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\index-0.js",
       "PackagePath": "staticwebassets\\adminLibs\\js\\page\\index-0.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\index.js",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\index.js",
       "PackagePath": "staticwebassets\\adminLibs\\js\\page\\index.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\modules-apex.js",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\modules-apex.js",
       "PackagePath": "staticwebassets\\adminLibs\\js\\page\\modules-apex.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\modules-c3.js",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\modules-c3.js",
       "PackagePath": "staticwebassets\\adminLibs\\js\\page\\modules-c3.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\modules-calendar.js",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\modules-calendar.js",
       "PackagePath": "staticwebassets\\adminLibs\\js\\page\\modules-calendar.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\modules-chartjs.js",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\modules-chartjs.js",
       "PackagePath": "staticwebassets\\adminLibs\\js\\page\\modules-chartjs.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\modules-datatables.js",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\modules-datatables.js",
       "PackagePath": "staticwebassets\\adminLibs\\js\\page\\modules-datatables.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\modules-echart.js",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\modules-echart.js",
       "PackagePath": "staticwebassets\\adminLibs\\js\\page\\modules-echart.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\modules-ion-icons.js",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\modules-ion-icons.js",
       "PackagePath": "staticwebassets\\adminLibs\\js\\page\\modules-ion-icons.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\modules-knobjs.js",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\modules-knobjs.js",
       "PackagePath": "staticwebassets\\adminLibs\\js\\page\\modules-knobjs.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\modules-slider.js",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\modules-slider.js",
       "PackagePath": "staticwebassets\\adminLibs\\js\\page\\modules-slider.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\modules-sparkline.js",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\modules-sparkline.js",
       "PackagePath": "staticwebassets\\adminLibs\\js\\page\\modules-sparkline.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\modules-sweetalert.js",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\modules-sweetalert.js",
       "PackagePath": "staticwebassets\\adminLibs\\js\\page\\modules-sweetalert.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\modules-toastr.js",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\modules-toastr.js",
       "PackagePath": "staticwebassets\\adminLibs\\js\\page\\modules-toastr.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\modules-vector-map.js",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\modules-vector-map.js",
       "PackagePath": "staticwebassets\\adminLibs\\js\\page\\modules-vector-map.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\utilities-contact.js",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\utilities-contact.js",
       "PackagePath": "staticwebassets\\adminLibs\\js\\page\\utilities-contact.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\scripts.js",
+      "Id": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\wwwroot\\adminLibs\\js\\scripts.js",
       "PackagePath": "staticwebassets\\adminLibs\\js\\scripts.js"
     },
     {

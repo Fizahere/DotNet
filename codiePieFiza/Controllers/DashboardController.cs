@@ -1,6 +1,7 @@
 ﻿using codiePieFiza.Data;
 using codiePieFiza.Models;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.Rendering;
 using System.Text.RegularExpressions;
 
 namespace codiePieFiza.Controllers
@@ -71,13 +72,58 @@ namespace codiePieFiza.Controllers
             else
             {
                 _dBContext.Category.Add(c);
-                if (_dBContext.SaveChanges()>0)
+              if (_dBContext.SaveChanges()>0)
                 {
                 ViewBag.msg = "Record Inserted!";                
-                    ///return RedirectToAction("Categories");
+                   return RedirectToAction("Categories");
                 }
                 
             }
+            return View();
+        }
+        ///Brand
+        public IActionResult Brand()
+        {
+            return View();
+        }
+        public IActionResult AddBrand()
+        {
+            return View();
+        }
+        [HttpPost]
+        public IActionResult AddBrand(Brand b)
+        {
+            var check = _dBContext.Brand.Where(a => a.BrandName == b.BrandName).FirstOrDefault();
+            if (check != null)
+            {
+                ViewBag.msg = "Brand already exist!";
+            }
+            else
+            {
+                _dBContext.Brand.Add(b);
+                if (_dBContext.SaveChanges() > 0)
+                {
+                    ViewBag.msg = "Record Inserted!";
+                    ///return RedirectToAction("Categories");
+                }
+
+            }
+            return View();
+        }
+        ///Product
+        public IActionResult Product()
+        {
+            return View();
+        }
+        public IActionResult AddProduct()
+        {
+            ViewBag.Category = new SelectList(_dBContext.Category, "CategoryId", "Name");
+            ViewBag.Brand = new SelectList(_dBContext.Brand, "BrandId", "Name");
+            return View();
+        }
+        [HttpPost]
+        public IActionResult AddProduct(Product p)
+        {
             return View();
         }
         ///Crud end

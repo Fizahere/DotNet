@@ -11278,19 +11278,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\STD\\.nuget\\packages\\": {}
+    "C:\\Users\\sfcexam\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\codiePieFiza.csproj",
+      "projectUniqueName": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\codiePieFiza.csproj",
       "projectName": "codiePieFiza",
-      "projectPath": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\codiePieFiza.csproj",
-      "packagesPath": "C:\\Users\\STD\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\STD\\Documents\\Fiza_.net\\DotNet\\codiePieFiza\\obj\\",
+      "projectPath": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\codiePieFiza.csproj",
+      "packagesPath": "C:\\Users\\sfcexam\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\sfcexam\\Documents\\GitHub\\DotNet\\codiePieFiza\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\STD\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\sfcexam\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

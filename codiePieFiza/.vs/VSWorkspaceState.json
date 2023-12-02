@@ -2,10 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\Controllers",
-    "\\Models",
     "\\Views",
     "\\Views\\Dashboard"
   ],
-  "SelectedNode": "\\Views\\Dashboard\\Login.cshtml",
+  "SelectedNode": "\\Controllers\\DashboardController.cs",
   "PreviewInSolutionExplorer": false
 }

@@ -16,12 +16,20 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\STD\Documents\Fiza_.net\DotNet\codiePieFiza
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/STD/Documents/Fiza_.net/DotNet/codiePieFiza/Views/Dashboard/AddBrand.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXEFkZEJyYW5kLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/STD/Documents/Fiza_.net/DotNet/codiePieFiza/Views/Dashboard/AddCategory.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXEFkZENhdGVnb3J5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/STD/Documents/Fiza_.net/DotNet/codiePieFiza/Views/Dashboard/AddProduct.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXEFkZFByb2R1Y3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/STD/Documents/Fiza_.net/DotNet/codiePieFiza/Views/Dashboard/Brand.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXEJyYW5kLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/STD/Documents/Fiza_.net/DotNet/codiePieFiza/Views/Dashboard/Categories.cshtml]
@@ -34,6 +42,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/STD/Documents/Fiza_.net/DotNet/codiePieFiza/Views/Dashboard/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXExvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/STD/Documents/Fiza_.net/DotNet/codiePieFiza/Views/Dashboard/Product.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXFByb2R1Y3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/STD/Documents/Fiza_.net/DotNet/codiePieFiza/Views/Dashboard/Products.cshtml]

@@ -74,17 +74,21 @@ namespace codiePieFiza.Controllers
             else
             {
                 _dBContext.Category.Add(c);
-                if (_dBContext.SaveChanges()>0)
+              if (_dBContext.SaveChanges()>0)
                 {
                 ViewBag.msg = "Record Inserted!";                
-                    ///return RedirectToAction("Categories");
+                   return RedirectToAction("Categories");
                 }
                 
             }
             return View();
         }
         ///Brand
+<<<<<<< HEAD
         public IActionResult Brands()
+=======
+        public IActionResult Brand()
+>>>>>>> 81b1e6c9871302a01a0c3cb60a786dbe4fe9aefb
         {
             return View();
         }
@@ -106,20 +110,29 @@ namespace codiePieFiza.Controllers
                 if (_dBContext.SaveChanges() > 0)
                 {
                     ViewBag.msg = "Record Inserted!";
+<<<<<<< HEAD
                     ///return RedirectToAction("Brand");
+=======
+                    ///return RedirectToAction("Categories");
+>>>>>>> 81b1e6c9871302a01a0c3cb60a786dbe4fe9aefb
                 }
 
             }
             return View();
         }
         ///Product
+<<<<<<< HEAD
         public IActionResult Products()
+=======
+        public IActionResult Product()
+>>>>>>> 81b1e6c9871302a01a0c3cb60a786dbe4fe9aefb
         {
             return View();
         }
         public IActionResult AddProduct()
         {
             ViewBag.Category = new SelectList(_dBContext.Category, "CategoryId", "Name");
+<<<<<<< HEAD
             ViewBag.Brand = new SelectList(_dBContext.Brand, "BrandId", "BrandName");
             return View();
         }
@@ -145,6 +158,14 @@ namespace codiePieFiza.Controllers
                 }
 
             }
+=======
+            ViewBag.Brand = new SelectList(_dBContext.Brand, "BrandId", "Name");
+            return View();
+        }
+        [HttpPost]
+        public IActionResult AddProduct(Product p)
+        {
+>>>>>>> 81b1e6c9871302a01a0c3cb60a786dbe4fe9aefb
             return View();
         }
         ///Crud end

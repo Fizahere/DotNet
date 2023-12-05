@@ -1,0 +1,31 @@
+﻿@model List<Category>
+@{
+    ViewData["Title"] = "Categories";
+    Layout = "~/Views/Shared/AdminLayout.cshtml";
+}
+
+<div class="d-flex justify-content-between">
+<h1>Categories</h1>
+<button class="btn btn-primary">+<a asp-controller="Dashboard" asp-action="AddCategory" class="text-light">Add Category</a></button>
+</div>
+
+<table class="table">
+    <thead>
+        <tr>
+            <td>Category ID</td>
+            <td>Category Name</td>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var item in Model){
+        <tr>
+                <th scope="row">@item.CategoryId</th>
+            <td>@item.Name</td>
+                <td><button class="btn btn-primary">Edit</button></td>
+                <td><button class="btn btn-danger">Delete</button></td>
+        </tr>
+        }
+    </tbody>
+</table>
+
+

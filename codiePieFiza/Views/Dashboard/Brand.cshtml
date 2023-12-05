@@ -1,0 +1,32 @@
+﻿@model List<Brand>
+@{
+    ViewData["Title"] = "Brand";
+    Layout = "~/Views/Shared/AdminLayout.cshtml";
+}
+
+<div class="d-flex justify-content-between">
+    <h1>Brands</h1>
+    <button class="btn btn-primary">+<a asp-controller="Dashboard" asp-action="AddBrand" class="text-light">Add Brand</a></button>
+</div>
+
+<table class="table">
+    <thead>
+        <tr>
+            <td>Brand ID</td>
+            <td>Brand Name</td>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <th scope="row">@item.BrandId</th>
+                <td>@item.BrandName</td>
+                <td><button class="btn btn-primary">Edit</button></td>
+                <td><button class="btn btn-danger">Delete</button></td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+

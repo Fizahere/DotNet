@@ -19,20 +19,22 @@
             <th scope="col">Image</th>
             <th scope="col">Category</th>
             <th scope="col">Brand</th>
+            <td scope="col">Edit</td>
+            <td scope="col">Delete</td>
         </tr>
     </thead>
     <tbody>
         @foreach(var item in Model){
         <tr>
             <th scope="row">@item.ProductId</th>
-            <td>@item.ProductName</td>
-            <td>@item.Price</td>
-                <td>@item.Quantity</td>
-                <td class="p-3"><img src="~/images/@item.Image" height="100" width="100"/></td>
-                <td>@item.Category.Name</td>
-                <td>@item.Brand.BrandName</td>
-                <td><button class="btn btn-primary">Edit</button></td>
-                <td><button class="btn btn-danger">Delete</button></td>
+                <td scope="col">@item.ProductName</td>
+                <td scope="col">@item.Price</td>
+                <td scope="col">@item.Quantity</td>
+                <td scope="col" class="p-3"><img src="~/images/@item.Image" height="100" width="100" /></td>
+                <td scope="col">@item.Category.Name</td>
+                <td scope="col">@item.Brand.BrandName</td>
+                <td scope="col"><button class="btn btn-primary">Edit</button></td>
+                <td scope="col"><button class="btn btn-danger">Delete</button></td>
         </tr>
         }
     </tbody>

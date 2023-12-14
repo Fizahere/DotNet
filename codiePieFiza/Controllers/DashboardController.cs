@@ -76,12 +76,14 @@ namespace codiePieFiza.Controllers
                 ViewBag.msg = "category already exist!";
             }
                 _dBContext.Category.Add(c);
+                _dBContext.SaveChanges();
                 return RedirectToAction("Categories");
         }
         ///Brand
         public IActionResult Brand()
         {
-            return View(_dBContext.Brand.ToList());
+            var data = _dBContext.Brand.ToList();
+            return View(data);
         }
         public IActionResult AddBrand()
         {
@@ -95,14 +97,15 @@ namespace codiePieFiza.Controllers
             {
                 ViewBag.msg = "Brand already exist!";
             }
-            else
-            {
+          
                 _dBContext.Brand.Add(b);
+                _dBContext.SaveChanges();
+                return RedirectToAction("Brand");
             }
-            return View("AddBrand");
-        }
-        ///Product
-        public IActionResult Products()
+
+        ///public IActionResult Delete()
+            ///Product
+            public IActionResult Products()
         {
             return View(_dBContext.Product.Include(p=>p.Brand).Include(p=>p.Category).ToList());
         }
@@ -121,6 +124,7 @@ namespace codiePieFiza.Controllers
             Image.CopyTo(new FileStream(path, FileMode.Create));
             p.Image = Image.FileName;
                 _dBContext.Product.Add(p);
+            _dBContext.SaveChanges();
               
             return RedirectToAction("Products");
             }

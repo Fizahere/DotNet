@@ -9,21 +9,23 @@
     <button class="btn btn-primary">+<a asp-controller="Dashboard" asp-action="AddBrand" class="text-light">Add Brand</a></button>
 </div>
 
-<table class="table">
+<table class="table table-striped">
     <thead>
         <tr>
-            <td>Brand ID</td>
-            <td>Brand Name</td>
+            <td scope="col">Brand ID</td>
+            <td scope="col">Brand Name</td>
+            <td scope="col">Edit</td>
+            <td scope="col">Delete</td>
         </tr>
     </thead>
     <tbody>
-        @foreach (var item in Model)
+        @foreach (var item in Model) 
         {
             <tr>
                 <th scope="row">@item.BrandId</th>
-                <td>@item.BrandName</td>
-                <td><button class="btn btn-primary">Edit</button></td>
-                <td><button class="btn btn-danger">Delete</button></td>
+                <td scope="col">@item.BrandName</td>
+                <td scope="col"><button class="btn btn-primary">Edit</button></td>
+                <td scope="col"><button asp-route-id="@item.BrandId" asp-action="Delete" class="btn btn-danger">Delete</button></td>
             </tr>
         }
     </tbody>

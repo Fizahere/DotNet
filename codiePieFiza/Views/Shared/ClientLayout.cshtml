@@ -119,7 +119,7 @@
                             var categories = MydbContext.Category.ToList();
                             @foreach(var category in categories)
                             {
-                        <a href="" class="nav-item nav-link">@category.Name</a>
+                        <a asp-controller="ClientSite" asp-action="CategoryDetail" asp-route-id="@category.CategoryId" class="nav-item nav-link">@category.Name</a>
                             }
                         }
                     </div>

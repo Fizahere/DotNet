@@ -281,7 +281,8 @@
                 </div>
                 <div class="text-center py-4">
                     <a class="h6 text-decoration-none text-truncate" href="">@item.ProductName</a>
-                    <div class="d-flex align-items-center justify-content-center mt-2">
+                    <div class="mt-2">
+                            <h5><a asp-controller="ClientSite" asp-action="ProductDetail" asp-route-id="@item.ProductId"/>View More</h5>
                         <h5>$@item.Price</h5>
                     </div>
                     <div class="d-flex align-items-center justify-content-center mb-1">

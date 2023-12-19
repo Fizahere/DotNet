@@ -14,7 +14,7 @@ namespace codiePieFiza.Controllers
         public IActionResult Index()
         {
             var products = _dBContext.Product.
-                Skip(0).Take(4)
+                Skip(0).Take(5)
                 .ToList();
             return View(products);
         }

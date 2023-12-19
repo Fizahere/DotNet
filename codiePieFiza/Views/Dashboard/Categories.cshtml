@@ -23,8 +23,8 @@
         <tr>
                 <th scope="row">@item.CategoryId</th>
                 <td scope="col">@item.Name</td>
-                <td scope="col"><button class="btn btn-primary">Edit</button></td>
-                <td scope="col"><button class="btn btn-danger">Delete</button></td>
+                <td scope="col"><button class="btn btn-primary"><a class="text-light" asp-route-id="@item.CategoryId" asp-action="EditCategory" asp-controller="dashboard">Edit</a></button></td>
+                <td scope="col"><button class="btn btn-danger"><a class="text-light" asp-controller="Dashboard" asp-action="DeleteCategory" asp-route-id="@item.CategoryId">Delete</a></button></td>
         </tr>
         }
     </tbody>

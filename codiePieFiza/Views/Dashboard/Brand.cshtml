@@ -24,8 +24,8 @@
             <tr>
                 <th scope="row">@item.BrandId</th>
                 <td scope="col">@item.BrandName</td>
-                <td scope="col"><button class="btn btn-primary">Edit</button></td>
-                <td scope="col"><button asp-route-id="@item.BrandId" asp-action="Delete" class="btn btn-danger">Delete</button></td>
+                <td scope="col"><button class="btn btn-primary"><a class="text-light" asp-route-id="@item.BrandId" asp-action="EditBrand" asp-controller="dashboard">Edit</a></button></td>
+                <td scope="col"><button class="btn btn-danger"><a class="text-light" asp-route-id="@item.BrandId" asp-action="DeleteBrand" asp-controller="dashboard">Delete</a></button></td>
             </tr>
         }
     </tbody>

@@ -33,8 +33,8 @@
                 <td scope="col" class="p-3"><img src="~/images/@item.Image" height="100" width="100" /></td>
                 <td scope="col">@item.Category.Name</td>
                 <td scope="col">@item.Brand.BrandName</td>
-                <td scope="col"><button class="btn btn-primary">Edit</button></td>
-                <td scope="col"><button class="btn btn-danger">Delete</button></td>
+                <td scope="col"><button class="btn btn-primary"><a class="text-light" asp-controller="dashboard" asp-action="EditProduct" asp-route-id="@item.ProductId">Edit</a></button></td>
+                <td scope="col"><button class="btn btn-danger"><a class ="text-light" asp-controller="dashboard" asp-action="DeleteProduct" asp-route-id="@item.ProductId">Delete</a></button></td>
         </tr>
         }
     </tbody>

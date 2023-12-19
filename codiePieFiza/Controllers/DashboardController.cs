@@ -79,6 +79,18 @@ namespace codiePieFiza.Controllers
                 _dBContext.SaveChanges();
                 return RedirectToAction("Categories");
         }
+        public IActionResult EditCategory(int id)
+        {
+            var CategoryToEdit = _dBContext.Category.Find(id);
+            return View(CategoryToEdit);
+        }
+        public IActionResult DeleteCategory(int id)
+        {
+            Category categoryToDelete = _dBContext.Category.Find(id);
+            _dBContext.Category.Remove(categoryToDelete);
+            _dBContext.SaveChanges();
+            return RedirectToAction("Categories");
+        }
         ///Brand
         public IActionResult Brand()
         {
@@ -102,10 +114,20 @@ namespace codiePieFiza.Controllers
                 _dBContext.SaveChanges();
                 return RedirectToAction("Brand");
             }
-
-        ///public IActionResult Delete()
-            ///Product
-            public IActionResult Products()
+        public IActionResult EditBrand(int id)
+        {
+            var BrandToEdit = _dBContext.Brand.Find(id);
+            return View(BrandToEdit);
+        }
+        public IActionResult DeleteBrand(int id)
+        {
+            Brand brandToDelete = _dBContext.Brand.Find(id);
+            _dBContext.Brand.Remove(brandToDelete);
+            _dBContext.SaveChanges();
+            return RedirectToAction("Brand");
+        }
+        ///Product
+        public IActionResult Products()
         {
             return View(_dBContext.Product.Include(p=>p.Brand).Include(p=>p.Category).ToList());
         }
@@ -128,6 +150,18 @@ namespace codiePieFiza.Controllers
               
             return RedirectToAction("Products");
             }
+        public IActionResult EditProduct(int id)
+        {
+            var ProductToEdit = _dBContext.Product.Find(id);
+            return View(ProductToEdit);
+        }
+        public IActionResult DeleteProduct(int id) {
+            Product productToDelete = _dBContext.Product.Find(id);
+            _dBContext.Product.Remove(productToDelete);
+            _dBContext.SaveChanges();
+            return RedirectToAction("Products");
+        }  
+
         }
        
         ///Crud end

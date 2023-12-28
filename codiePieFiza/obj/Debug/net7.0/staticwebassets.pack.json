@@ -1,1259 +1,1259 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\codiePieFiza.bundle.scp.css",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\codiePieFiza.bundle.scp.css",
       "PackagePath": "staticwebassets\\codiePieFiza.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\asset\\img\\unsplash\\andre-benz-1214056-unsplash.html",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\asset\\img\\unsplash\\andre-benz-1214056-unsplash.html",
       "PackagePath": "staticwebassets\\adminLibs\\asset\\img\\unsplash\\andre-benz-1214056-unsplash.html"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\asset\\img\\unsplash\\eberhard-grossgasteiger-1207565-unsplash.html",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\asset\\img\\unsplash\\eberhard-grossgasteiger-1207565-unsplash.html",
       "PackagePath": "staticwebassets\\adminLibs\\asset\\img\\unsplash\\eberhard-grossgasteiger-1207565-unsplash.html"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\bundles\\lib.vendor.bundle.js",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\bundles\\lib.vendor.bundle.js",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\bundles\\lib.vendor.bundle.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\css\\components.min.css",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\css\\components.min.css",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\css\\components.min.css"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\css\\style.min.css",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\css\\style.min.css",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\css\\style.min.css"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\americanexpress.png",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\americanexpress.png",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\img\\americanexpress.png"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\avatar\\avatar-1.png",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\avatar\\avatar-1.png",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\img\\avatar\\avatar-1.png"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\avatar\\avatar-2.png",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\avatar\\avatar-2.png",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\img\\avatar\\avatar-2.png"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\avatar\\avatar-3.png",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\avatar\\avatar-3.png",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\img\\avatar\\avatar-3.png"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\avatar\\avatar-4.png",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\avatar\\avatar-4.png",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\img\\avatar\\avatar-4.png"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\avatar\\avatar-5.png",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\avatar\\avatar-5.png",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\img\\avatar\\avatar-5.png"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\browsers\\chrome.png",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\browsers\\chrome.png",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\img\\browsers\\chrome.png"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\browsers\\firefox.png",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\browsers\\firefox.png",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\img\\browsers\\firefox.png"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\browsers\\internet-explorer.png",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\browsers\\internet-explorer.png",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\img\\browsers\\internet-explorer.png"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\browsers\\opera.png",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\browsers\\opera.png",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\img\\browsers\\opera.png"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\browsers\\safari.png",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\browsers\\safari.png",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\img\\browsers\\safari.png"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\dinersclub.png",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\dinersclub.png",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\img\\dinersclub.png"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\discover.png",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\discover.png",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\img\\discover.png"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\example-image-50.jpg",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\example-image-50.jpg",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\img\\example-image-50.jpg"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\example-image.jpg",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\example-image.jpg",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\img\\example-image.jpg"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\jcb.png",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\jcb.png",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\img\\jcb.png"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\mastercard.png",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\mastercard.png",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\img\\mastercard.png"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\news\\img01.jpg",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\news\\img01.jpg",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\img\\news\\img01.jpg"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\news\\img02.jpg",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\news\\img02.jpg",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\img\\news\\img02.jpg"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\news\\img03.jpg",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\news\\img03.jpg",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\img\\news\\img03.jpg"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\news\\img04.jpg",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\news\\img04.jpg",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\img\\news\\img04.jpg"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\news\\img05.jpg",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\news\\img05.jpg",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\img\\news\\img05.jpg"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\news\\img06.jpg",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\news\\img06.jpg",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\img\\news\\img06.jpg"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\news\\img07.jpg",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\news\\img07.jpg",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\img\\news\\img07.jpg"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\news\\img08.jpg",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\news\\img08.jpg",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\img\\news\\img08.jpg"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\news\\img09.jpg",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\news\\img09.jpg",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\img\\news\\img09.jpg"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\news\\img10.jpg",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\news\\img10.jpg",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\img\\news\\img10.jpg"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\news\\img12.jpg",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\news\\img12.jpg",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\img\\news\\img12.jpg"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\news\\img13.jpg",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\news\\img13.jpg",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\img\\news\\img13.jpg"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\news\\img14.jpg",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\news\\img14.jpg",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\img\\news\\img14.jpg"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\news\\img15.jpg",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\news\\img15.jpg",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\img\\news\\img15.jpg"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\paypal.png",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\paypal.png",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\img\\paypal.png"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\products\\product-1-50.png",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\products\\product-1-50.png",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\img\\products\\product-1-50.png"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\products\\product-2-50.png",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\products\\product-2-50.png",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\img\\products\\product-2-50.png"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\products\\product-3-50.png",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\products\\product-3-50.png",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\img\\products\\product-3-50.png"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\products\\product-4-50.png",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\products\\product-4-50.png",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\img\\products\\product-4-50.png"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\products\\product-5-50.png",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\products\\product-5-50.png",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\img\\products\\product-5-50.png"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\visa.png",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\img\\visa.png",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\img\\visa.png"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\js\\page\\features-setting-detail.html",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\js\\page\\features-setting-detail.html",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\js\\page\\features-setting-detail.html"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\apexcharts\\apexcharts.min.js",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\apexcharts\\apexcharts.min.js",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\apexcharts\\apexcharts.min.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\bootstrap-colorpicker\\dist\\css\\bootstrap-colorpicker.min.css",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\bootstrap-colorpicker\\dist\\css\\bootstrap-colorpicker.min.css",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\bootstrap-colorpicker\\dist\\css\\bootstrap-colorpicker.min.css"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\bootstrap-colorpicker\\dist\\js\\bootstrap-colorpicker.min.js",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\bootstrap-colorpicker\\dist\\js\\bootstrap-colorpicker.min.js",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\bootstrap-colorpicker\\dist\\js\\bootstrap-colorpicker.min.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\bootstrap-daterangepicker\\daterangepicker.css",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\bootstrap-daterangepicker\\daterangepicker.css",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\bootstrap-daterangepicker\\daterangepicker.css"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\bootstrap-daterangepicker\\daterangepicker.js",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\bootstrap-daterangepicker\\daterangepicker.js",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\bootstrap-daterangepicker\\daterangepicker.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\bootstrap-social\\bootstrap-social.css",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\bootstrap-social\\bootstrap-social.css",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\bootstrap-social\\bootstrap-social.css"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\bootstrap-tagsinput\\dist\\bootstrap-tagsinput.css",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\bootstrap-tagsinput\\dist\\bootstrap-tagsinput.css",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\bootstrap-tagsinput\\dist\\bootstrap-tagsinput.css"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\bootstrap-tagsinput\\dist\\bootstrap-tagsinput.min.js",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\bootstrap-tagsinput\\dist\\bootstrap-tagsinput.min.js",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\bootstrap-tagsinput\\dist\\bootstrap-tagsinput.min.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\bootstrap-timepicker\\css\\bootstrap-timepicker.min.css",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\bootstrap-timepicker\\css\\bootstrap-timepicker.min.css",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\bootstrap-timepicker\\css\\bootstrap-timepicker.min.css"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\bootstrap-timepicker\\js\\bootstrap-timepicker.min.js",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\bootstrap-timepicker\\js\\bootstrap-timepicker.min.js",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\bootstrap-timepicker\\js\\bootstrap-timepicker.min.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\bootstrap\\css\\bootstrap.min.css",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\bootstrap\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\bootstrap\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\chart.min.js",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\chart.min.js",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\chart.min.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\charts-c3\\c3.min.css",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\charts-c3\\c3.min.css",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\charts-c3\\c3.min.css"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\charts-c3\\c3.min.js",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\charts-c3\\c3.min.js",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\charts-c3\\c3.min.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\charts-c3\\d3.v3.min.js",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\charts-c3\\d3.v3.min.js",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\charts-c3\\d3.v3.min.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\chocolat\\dist\\css\\chocolat.css",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\chocolat\\dist\\css\\chocolat.css",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\chocolat\\dist\\css\\chocolat.css"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\chocolat\\dist\\images\\close.png",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\chocolat\\dist\\images\\close.png",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\chocolat\\dist\\images\\close.png"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\chocolat\\dist\\images\\fullscreen.png",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\chocolat\\dist\\images\\fullscreen.png",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\chocolat\\dist\\images\\fullscreen.png"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\chocolat\\dist\\images\\left.png",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\chocolat\\dist\\images\\left.png",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\chocolat\\dist\\images\\left.png"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\chocolat\\dist\\images\\loader.gif",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\chocolat\\dist\\images\\loader.gif",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\chocolat\\dist\\images\\loader.gif"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\chocolat\\dist\\images\\right.png",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\chocolat\\dist\\images\\right.png",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\chocolat\\dist\\images\\right.png"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\chocolat\\dist\\js\\jquery.chocolat.min.js",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\chocolat\\dist\\js\\jquery.chocolat.min.js",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\chocolat\\dist\\js\\jquery.chocolat.min.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\cleave-js\\dist\\addons\\cleave-phone.us.js",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\cleave-js\\dist\\addons\\cleave-phone.us.js",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\cleave-js\\dist\\addons\\cleave-phone.us.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\cleave-js\\dist\\cleave.min.js",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\cleave-js\\dist\\cleave.min.js",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\cleave-js\\dist\\cleave.min.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\codemirror\\lib\\codemirror.css",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\codemirror\\lib\\codemirror.css",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\codemirror\\lib\\codemirror.css"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\codemirror\\lib\\codemirror.js",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\codemirror\\lib\\codemirror.js",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\codemirror\\lib\\codemirror.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\codemirror\\mode\\javascript\\javascript.js",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\codemirror\\mode\\javascript\\javascript.js",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\codemirror\\mode\\javascript\\javascript.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\codemirror\\theme\\duotone-dark.css",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\codemirror\\theme\\duotone-dark.css",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\codemirror\\theme\\duotone-dark.css"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\datatables\\DataTables-1.10.16\\css\\dataTables.bootstrap4.min.css",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\datatables\\DataTables-1.10.16\\css\\dataTables.bootstrap4.min.css",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\datatables\\DataTables-1.10.16\\css\\dataTables.bootstrap4.min.css"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\datatables\\DataTables-1.10.16\\js\\dataTables.bootstrap4.min.js",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\datatables\\DataTables-1.10.16\\js\\dataTables.bootstrap4.min.js",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\datatables\\DataTables-1.10.16\\js\\dataTables.bootstrap4.min.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\datatables\\Select-1.2.4\\css\\select.bootstrap4.min.css",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\datatables\\Select-1.2.4\\css\\select.bootstrap4.min.css",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\datatables\\Select-1.2.4\\css\\select.bootstrap4.min.css"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\datatables\\Select-1.2.4\\js\\dataTables.select.min.js",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\datatables\\Select-1.2.4\\js\\dataTables.select.min.js",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\datatables\\Select-1.2.4\\js\\dataTables.select.min.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\datatables\\datatables.min.css",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\datatables\\datatables.min.css",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\datatables\\datatables.min.css"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\datatables\\datatables.min.js",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\datatables\\datatables.min.js",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\datatables\\datatables.min.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\dropzonejs\\dropzone.css",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\dropzonejs\\dropzone.css",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\dropzonejs\\dropzone.css"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\dropzonejs\\min\\dropzone.min.js",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\dropzonejs\\min\\dropzone.min.js",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\dropzonejs\\min\\dropzone.min.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\echart\\echarts.min.js",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\echart\\echarts.min.js",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\echart\\echarts.min.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\flag-icon-css\\css\\flag-icon.min.css",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\flag-icon-css\\css\\flag-icon.min.css",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\flag-icon-css\\css\\flag-icon.min.css"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\fontawesome\\css\\all.min.css",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\fontawesome\\css\\all.min.css",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\fontawesome\\css\\all.min.css"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\fullcalendar\\fullcalendar.min.css",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\fullcalendar\\fullcalendar.min.css",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\fullcalendar\\fullcalendar.min.css"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\fullcalendar\\fullcalendar.min.js",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\fullcalendar\\fullcalendar.min.js",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\fullcalendar\\fullcalendar.min.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\gmaps.js",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\gmaps.js",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\gmaps.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\ionicons\\css\\ionicons.min.css",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\ionicons\\css\\ionicons.min.css",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\ionicons\\css\\ionicons.min.css"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\izitoast\\css\\iziToast.min.css",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\izitoast\\css\\iziToast.min.css",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\izitoast\\css\\iziToast.min.css"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\izitoast\\js\\iziToast.min.js",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\izitoast\\js\\iziToast.min.js",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\izitoast\\js\\iziToast.min.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\jquery-pwstrength\\jquery.pwstrength.min.js",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\jquery-pwstrength\\jquery.pwstrength.min.js",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\jquery-pwstrength\\jquery.pwstrength.min.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\jquery-selectric\\jquery.selectric.min.js",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\jquery-selectric\\jquery.selectric.min.js",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\jquery-selectric\\jquery.selectric.min.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\jquery-selectric\\selectric.css",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\jquery-selectric\\selectric.css",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\jquery-selectric\\selectric.css"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\jquery-ui\\jquery-ui.min.js",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\jquery-ui\\jquery-ui.min.js",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\jquery-ui\\jquery-ui.min.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\jquery.sparkline.min.js",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\jquery.sparkline.min.js",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\jquery.sparkline.min.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\jqvmap\\dist\\jquery.vmap.min.js",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\jqvmap\\dist\\jquery.vmap.min.js",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\jqvmap\\dist\\jquery.vmap.min.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\jqvmap\\dist\\jqvmap.min.css",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\jqvmap\\dist\\jqvmap.min.css",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\jqvmap\\dist\\jqvmap.min.css"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\jqvmap\\dist\\maps\\jquery.vmap.USA.html",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\jqvmap\\dist\\maps\\jquery.vmap.USA.html",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\jqvmap\\dist\\maps\\jquery.vmap.USA.html"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\jqvmap\\dist\\maps\\jquery.vmap.germany.js",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\jqvmap\\dist\\maps\\jquery.vmap.germany.js",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\jqvmap\\dist\\maps\\jquery.vmap.germany.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\jqvmap\\dist\\maps\\jquery.vmap.russia.js",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\jqvmap\\dist\\maps\\jquery.vmap.russia.js",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\jqvmap\\dist\\maps\\jquery.vmap.russia.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\jqvmap\\dist\\maps\\jquery.vmap.world.js",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\jqvmap\\dist\\maps\\jquery.vmap.world.js",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\jqvmap\\dist\\maps\\jquery.vmap.world.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\knobjs\\knob.min.js",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\knobjs\\knob.min.js",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\knobjs\\knob.min.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\owlcarousel2\\dist\\assets\\owl.carousel.min.css",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\owlcarousel2\\dist\\assets\\owl.carousel.min.css",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\owlcarousel2\\dist\\assets\\owl.carousel.min.css"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\owlcarousel2\\dist\\assets\\owl.theme.default.min.css",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\owlcarousel2\\dist\\assets\\owl.theme.default.min.css",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\owlcarousel2\\dist\\assets\\owl.theme.default.min.css"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\owlcarousel2\\dist\\assets\\owl.video.play.png",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\owlcarousel2\\dist\\assets\\owl.video.play.png",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\owlcarousel2\\dist\\assets\\owl.video.play.png"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\owlcarousel2\\dist\\owl.carousel.min.js",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\owlcarousel2\\dist\\owl.carousel.min.js",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\owlcarousel2\\dist\\owl.carousel.min.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\prism\\prism.css",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\prism\\prism.css",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\prism\\prism.css"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\prism\\prism.js",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\prism\\prism.js",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\prism\\prism.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\select2\\dist\\css\\select2.min.css",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\select2\\dist\\css\\select2.min.css",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\select2\\dist\\css\\select2.min.css"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\select2\\dist\\js\\select2.full.min.js",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\select2\\dist\\js\\select2.full.min.js",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\select2\\dist\\js\\select2.full.min.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\simple-weather\\jquery.simpleWeather.min.js",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\simple-weather\\jquery.simpleWeather.min.js",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\simple-weather\\jquery.simpleWeather.min.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\summernote\\font\\summernote4c4d.eot",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\summernote\\font\\summernote4c4d.eot",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\summernote\\font\\summernote4c4d.eot"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\summernote\\font\\summernote4c4d.ttf",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\summernote\\font\\summernote4c4d.ttf",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\summernote\\font\\summernote4c4d.ttf"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\summernote\\font\\summernote4c4d.woff",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\summernote\\font\\summernote4c4d.woff",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\summernote\\font\\summernote4c4d.woff"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\summernote\\font\\summernoted41d.eot",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\summernote\\font\\summernoted41d.eot",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\summernote\\font\\summernoted41d.eot"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\summernote\\summernote-bs4.css",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\summernote\\summernote-bs4.css",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\summernote\\summernote-bs4.css"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\summernote\\summernote-bs4.js",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\summernote\\summernote-bs4.js",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\summernote\\summernote-bs4.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\sweetalert\\sweetalert.min.js",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\sweetalert\\sweetalert.min.js",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\sweetalert\\sweetalert.min.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\upload-preview\\assets\\js\\jquery.uploadPreview.min.js",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\upload-preview\\assets\\js\\jquery.uploadPreview.min.js",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\upload-preview\\assets\\js\\jquery.uploadPreview.min.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\weather-icon\\css\\weather-icons-wind.min.css",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\weather-icon\\css\\weather-icons-wind.min.css",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\weather-icon\\css\\weather-icons-wind.min.css"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\weather-icon\\css\\weather-icons.min.css",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\assets\\modules\\weather-icon\\css\\weather-icons.min.css",
       "PackagePath": "staticwebassets\\adminLibs\\assets\\modules\\weather-icon\\css\\weather-icons.min.css"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\js\\CodiePie.js",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\js\\CodiePie.js",
       "PackagePath": "staticwebassets\\adminLibs\\js\\CodiePie.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\js\\custom.js",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\js\\custom.js",
       "PackagePath": "staticwebassets\\adminLibs\\js\\custom.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\auth-register.js",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\auth-register.js",
       "PackagePath": "staticwebassets\\adminLibs\\js\\page\\auth-register.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\bootstrap-modal.js",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\bootstrap-modal.js",
       "PackagePath": "staticwebassets\\adminLibs\\js\\page\\bootstrap-modal.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\components-chat-box.js",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\components-chat-box.js",
       "PackagePath": "staticwebassets\\adminLibs\\js\\page\\components-chat-box.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\components-multiple-upload.js",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\components-multiple-upload.js",
       "PackagePath": "staticwebassets\\adminLibs\\js\\page\\components-multiple-upload.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\components-statistic.js",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\components-statistic.js",
       "PackagePath": "staticwebassets\\adminLibs\\js\\page\\components-statistic.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\components-table.js",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\components-table.js",
       "PackagePath": "staticwebassets\\adminLibs\\js\\page\\components-table.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\components-user.js",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\components-user.js",
       "PackagePath": "staticwebassets\\adminLibs\\js\\page\\components-user.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\features-post-create.js",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\features-post-create.js",
       "PackagePath": "staticwebassets\\adminLibs\\js\\page\\features-post-create.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\features-posts.js",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\features-posts.js",
       "PackagePath": "staticwebassets\\adminLibs\\js\\page\\features-posts.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\forms-advanced-forms.js",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\forms-advanced-forms.js",
       "PackagePath": "staticwebassets\\adminLibs\\js\\page\\forms-advanced-forms.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\gmaps-advanced-route.js",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\gmaps-advanced-route.js",
       "PackagePath": "staticwebassets\\adminLibs\\js\\page\\gmaps-advanced-route.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\gmaps-draggable-marker.js",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\gmaps-draggable-marker.js",
       "PackagePath": "staticwebassets\\adminLibs\\js\\page\\gmaps-draggable-marker.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\gmaps-geocoding.js",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\gmaps-geocoding.js",
       "PackagePath": "staticwebassets\\adminLibs\\js\\page\\gmaps-geocoding.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\gmaps-geolocation.js",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\gmaps-geolocation.js",
       "PackagePath": "staticwebassets\\adminLibs\\js\\page\\gmaps-geolocation.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\gmaps-marker.js",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\gmaps-marker.js",
       "PackagePath": "staticwebassets\\adminLibs\\js\\page\\gmaps-marker.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\gmaps-multiple-marker.js",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\gmaps-multiple-marker.js",
       "PackagePath": "staticwebassets\\adminLibs\\js\\page\\gmaps-multiple-marker.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\gmaps-route.js",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\gmaps-route.js",
       "PackagePath": "staticwebassets\\adminLibs\\js\\page\\gmaps-route.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\gmaps-simple.js",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\gmaps-simple.js",
       "PackagePath": "staticwebassets\\adminLibs\\js\\page\\gmaps-simple.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\index-0.js",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\index-0.js",
       "PackagePath": "staticwebassets\\adminLibs\\js\\page\\index-0.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\index.js",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\index.js",
       "PackagePath": "staticwebassets\\adminLibs\\js\\page\\index.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\modules-apex.js",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\modules-apex.js",
       "PackagePath": "staticwebassets\\adminLibs\\js\\page\\modules-apex.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\modules-c3.js",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\modules-c3.js",
       "PackagePath": "staticwebassets\\adminLibs\\js\\page\\modules-c3.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\modules-calendar.js",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\modules-calendar.js",
       "PackagePath": "staticwebassets\\adminLibs\\js\\page\\modules-calendar.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\modules-chartjs.js",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\modules-chartjs.js",
       "PackagePath": "staticwebassets\\adminLibs\\js\\page\\modules-chartjs.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\modules-datatables.js",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\modules-datatables.js",
       "PackagePath": "staticwebassets\\adminLibs\\js\\page\\modules-datatables.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\modules-echart.js",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\modules-echart.js",
       "PackagePath": "staticwebassets\\adminLibs\\js\\page\\modules-echart.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\modules-ion-icons.js",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\modules-ion-icons.js",
       "PackagePath": "staticwebassets\\adminLibs\\js\\page\\modules-ion-icons.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\modules-knobjs.js",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\modules-knobjs.js",
       "PackagePath": "staticwebassets\\adminLibs\\js\\page\\modules-knobjs.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\modules-slider.js",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\modules-slider.js",
       "PackagePath": "staticwebassets\\adminLibs\\js\\page\\modules-slider.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\modules-sparkline.js",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\modules-sparkline.js",
       "PackagePath": "staticwebassets\\adminLibs\\js\\page\\modules-sparkline.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\modules-sweetalert.js",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\modules-sweetalert.js",
       "PackagePath": "staticwebassets\\adminLibs\\js\\page\\modules-sweetalert.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\modules-toastr.js",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\modules-toastr.js",
       "PackagePath": "staticwebassets\\adminLibs\\js\\page\\modules-toastr.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\modules-vector-map.js",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\modules-vector-map.js",
       "PackagePath": "staticwebassets\\adminLibs\\js\\page\\modules-vector-map.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\utilities-contact.js",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\js\\page\\utilities-contact.js",
       "PackagePath": "staticwebassets\\adminLibs\\js\\page\\utilities-contact.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\js\\scripts.js",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\adminLibs\\js\\scripts.js",
       "PackagePath": "staticwebassets\\adminLibs\\js\\scripts.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\images\\05eeb93a2e41734ecb6044146351f11e.jpeg",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\images\\05eeb93a2e41734ecb6044146351f11e.jpeg",
       "PackagePath": "staticwebassets\\images\\05eeb93a2e41734ecb6044146351f11e.jpeg"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\images\\166370403263.webp",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\images\\166370403263.webp",
       "PackagePath": "staticwebassets\\images\\166370403263.webp"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\images\\HD-wallpaper-rose-glow-love-colored-love-thumbnail.jpg",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\images\\HD-wallpaper-rose-glow-love-colored-love-thumbnail.jpg",
       "PackagePath": "staticwebassets\\images\\HD-wallpaper-rose-glow-love-colored-love-thumbnail.jpg"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\images\\Screenshot (138).png",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\images\\Screenshot (138).png",
       "PackagePath": "staticwebassets\\images\\Screenshot (138).png"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\images\\Screenshot (145).png",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\images\\Screenshot (145).png",
       "PackagePath": "staticwebassets\\images\\Screenshot (145).png"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\images\\download (3).jpg",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\images\\download (3).jpg",
       "PackagePath": "staticwebassets\\images\\download (3).jpg"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\images\\download.jpg",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\images\\download.jpg",
       "PackagePath": "staticwebassets\\images\\download.jpg"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\images\\images (1).jfif",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\images\\images (1).jfif",
       "PackagePath": "staticwebassets\\images\\images (1).jfif"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\images\\iphonexs.jpg",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\images\\iphonexs.jpg",
       "PackagePath": "staticwebassets\\images\\iphonexs.jpg"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\images\\pexels-photo-516541.jpeg",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\images\\pexels-photo-516541.jpeg",
       "PackagePath": "staticwebassets\\images\\pexels-photo-516541.jpeg"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\images\\samsung.jpg",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\images\\samsung.jpg",
       "PackagePath": "staticwebassets\\images\\samsung.jpg"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\css\\bootstrap-grid.css",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\webLibs\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\webLibs\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\css\\bootstrap-reboot.css",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\webLibs\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\webLibs\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\css\\bootstrap.css",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\webLibs\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\css\\bootstrap.min.css",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\webLibs\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\css\\style.css",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\css\\style.css",
       "PackagePath": "staticwebassets\\webLibs\\css\\style.css"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\css\\style.min.css",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\css\\style.min.css",
       "PackagePath": "staticwebassets\\webLibs\\css\\style.min.css"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\img\\carousel-1.jpg",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\img\\carousel-1.jpg",
       "PackagePath": "staticwebassets\\webLibs\\img\\carousel-1.jpg"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\img\\carousel-2.jpg",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\img\\carousel-2.jpg",
       "PackagePath": "staticwebassets\\webLibs\\img\\carousel-2.jpg"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\img\\carousel-3.jpg",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\img\\carousel-3.jpg",
       "PackagePath": "staticwebassets\\webLibs\\img\\carousel-3.jpg"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\img\\cat-1.jpg",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\img\\cat-1.jpg",
       "PackagePath": "staticwebassets\\webLibs\\img\\cat-1.jpg"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\img\\cat-2.jpg",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\img\\cat-2.jpg",
       "PackagePath": "staticwebassets\\webLibs\\img\\cat-2.jpg"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\img\\cat-3.jpg",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\img\\cat-3.jpg",
       "PackagePath": "staticwebassets\\webLibs\\img\\cat-3.jpg"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\img\\cat-4.jpg",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\img\\cat-4.jpg",
       "PackagePath": "staticwebassets\\webLibs\\img\\cat-4.jpg"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\img\\offer-1.jpg",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\img\\offer-1.jpg",
       "PackagePath": "staticwebassets\\webLibs\\img\\offer-1.jpg"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\img\\offer-2.jpg",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\img\\offer-2.jpg",
       "PackagePath": "staticwebassets\\webLibs\\img\\offer-2.jpg"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\img\\payments.png",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\img\\payments.png",
       "PackagePath": "staticwebassets\\webLibs\\img\\payments.png"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\img\\product-1.jpg",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\img\\product-1.jpg",
       "PackagePath": "staticwebassets\\webLibs\\img\\product-1.jpg"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\img\\product-2.jpg",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\img\\product-2.jpg",
       "PackagePath": "staticwebassets\\webLibs\\img\\product-2.jpg"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\img\\product-3.jpg",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\img\\product-3.jpg",
       "PackagePath": "staticwebassets\\webLibs\\img\\product-3.jpg"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\img\\product-4.jpg",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\img\\product-4.jpg",
       "PackagePath": "staticwebassets\\webLibs\\img\\product-4.jpg"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\img\\product-5.jpg",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\img\\product-5.jpg",
       "PackagePath": "staticwebassets\\webLibs\\img\\product-5.jpg"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\img\\product-6.jpg",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\img\\product-6.jpg",
       "PackagePath": "staticwebassets\\webLibs\\img\\product-6.jpg"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\img\\product-7.jpg",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\img\\product-7.jpg",
       "PackagePath": "staticwebassets\\webLibs\\img\\product-7.jpg"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\img\\product-8.jpg",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\img\\product-8.jpg",
       "PackagePath": "staticwebassets\\webLibs\\img\\product-8.jpg"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\img\\product-9.jpg",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\img\\product-9.jpg",
       "PackagePath": "staticwebassets\\webLibs\\img\\product-9.jpg"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\img\\user.jpg",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\img\\user.jpg",
       "PackagePath": "staticwebassets\\webLibs\\img\\user.jpg"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\img\\vendor-1.jpg",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\img\\vendor-1.jpg",
       "PackagePath": "staticwebassets\\webLibs\\img\\vendor-1.jpg"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\img\\vendor-2.jpg",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\img\\vendor-2.jpg",
       "PackagePath": "staticwebassets\\webLibs\\img\\vendor-2.jpg"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\img\\vendor-3.jpg",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\img\\vendor-3.jpg",
       "PackagePath": "staticwebassets\\webLibs\\img\\vendor-3.jpg"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\img\\vendor-4.jpg",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\img\\vendor-4.jpg",
       "PackagePath": "staticwebassets\\webLibs\\img\\vendor-4.jpg"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\img\\vendor-5.jpg",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\img\\vendor-5.jpg",
       "PackagePath": "staticwebassets\\webLibs\\img\\vendor-5.jpg"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\img\\vendor-6.jpg",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\img\\vendor-6.jpg",
       "PackagePath": "staticwebassets\\webLibs\\img\\vendor-6.jpg"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\img\\vendor-7.jpg",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\img\\vendor-7.jpg",
       "PackagePath": "staticwebassets\\webLibs\\img\\vendor-7.jpg"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\img\\vendor-8.jpg",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\img\\vendor-8.jpg",
       "PackagePath": "staticwebassets\\webLibs\\img\\vendor-8.jpg"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\js\\main.js",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\js\\main.js",
       "PackagePath": "staticwebassets\\webLibs\\js\\main.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\lib\\animate\\animate.min.css",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\lib\\animate\\animate.min.css",
       "PackagePath": "staticwebassets\\webLibs\\lib\\animate\\animate.min.css"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\lib\\easing\\easing.js",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\lib\\easing\\easing.js",
       "PackagePath": "staticwebassets\\webLibs\\lib\\easing\\easing.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\lib\\easing\\easing.min.js",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\lib\\easing\\easing.min.js",
       "PackagePath": "staticwebassets\\webLibs\\lib\\easing\\easing.min.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\lib\\owlcarousel\\LICENSE",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\lib\\owlcarousel\\LICENSE",
       "PackagePath": "staticwebassets\\webLibs\\lib\\owlcarousel"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\lib\\owlcarousel\\assets\\ajax-loader.gif",
       "PackagePath": "staticwebassets\\webLibs\\lib\\owlcarousel\\assets\\ajax-loader.gif"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\lib\\owlcarousel\\assets\\owl.carousel.css",
       "PackagePath": "staticwebassets\\webLibs\\lib\\owlcarousel\\assets\\owl.carousel.css"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
       "PackagePath": "staticwebassets\\webLibs\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\lib\\owlcarousel\\assets\\owl.theme.default.css",
       "PackagePath": "staticwebassets\\webLibs\\lib\\owlcarousel\\assets\\owl.theme.default.css"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
       "PackagePath": "staticwebassets\\webLibs\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\lib\\owlcarousel\\assets\\owl.theme.green.css",
       "PackagePath": "staticwebassets\\webLibs\\lib\\owlcarousel\\assets\\owl.theme.green.css"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
       "PackagePath": "staticwebassets\\webLibs\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\lib\\owlcarousel\\assets\\owl.video.play.png",
       "PackagePath": "staticwebassets\\webLibs\\lib\\owlcarousel\\assets\\owl.video.play.png"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\lib\\owlcarousel\\owl.carousel.js",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\lib\\owlcarousel\\owl.carousel.js",
       "PackagePath": "staticwebassets\\webLibs\\lib\\owlcarousel\\owl.carousel.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\lib\\owlcarousel\\owl.carousel.min.js",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\lib\\owlcarousel\\owl.carousel.min.js",
       "PackagePath": "staticwebassets\\webLibs\\lib\\owlcarousel\\owl.carousel.min.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\mail\\contact.js",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\mail\\contact.js",
       "PackagePath": "staticwebassets\\webLibs\\mail\\contact.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\mail\\contact.php",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\mail\\contact.php",
       "PackagePath": "staticwebassets\\webLibs\\mail\\contact.php"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\mail\\jqBootstrapValidation.min.js",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\mail\\jqBootstrapValidation.min.js",
       "PackagePath": "staticwebassets\\webLibs\\mail\\jqBootstrapValidation.min.js"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\_alert.scss",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\_alert.scss",
       "PackagePath": "staticwebassets\\webLibs\\scss\\bootstrap\\scss\\_alert.scss"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\_badge.scss",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\_badge.scss",
       "PackagePath": "staticwebassets\\webLibs\\scss\\bootstrap\\scss\\_badge.scss"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\_breadcrumb.scss",
       "PackagePath": "staticwebassets\\webLibs\\scss\\bootstrap\\scss\\_breadcrumb.scss"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\_button-group.scss",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\_button-group.scss",
       "PackagePath": "staticwebassets\\webLibs\\scss\\bootstrap\\scss\\_button-group.scss"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\_buttons.scss",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\_buttons.scss",
       "PackagePath": "staticwebassets\\webLibs\\scss\\bootstrap\\scss\\_buttons.scss"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\_card.scss",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\_card.scss",
       "PackagePath": "staticwebassets\\webLibs\\scss\\bootstrap\\scss\\_card.scss"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\_carousel.scss",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\_carousel.scss",
       "PackagePath": "staticwebassets\\webLibs\\scss\\bootstrap\\scss\\_carousel.scss"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\_close.scss",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\_close.scss",
       "PackagePath": "staticwebassets\\webLibs\\scss\\bootstrap\\scss\\_close.scss"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\_code.scss",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\_code.scss",
       "PackagePath": "staticwebassets\\webLibs\\scss\\bootstrap\\scss\\_code.scss"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\_custom-forms.scss",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\_custom-forms.scss",
       "PackagePath": "staticwebassets\\webLibs\\scss\\bootstrap\\scss\\_custom-forms.scss"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\_dropdown.scss",
       "PackagePath": "staticwebassets\\webLibs\\scss\\bootstrap\\scss\\_dropdown.scss"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\_forms.scss",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\_forms.scss",
       "PackagePath": "staticwebassets\\webLibs\\scss\\bootstrap\\scss\\_forms.scss"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\_functions.scss",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\_functions.scss",
       "PackagePath": "staticwebassets\\webLibs\\scss\\bootstrap\\scss\\_functions.scss"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\_grid.scss",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\_grid.scss",
       "PackagePath": "staticwebassets\\webLibs\\scss\\bootstrap\\scss\\_grid.scss"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\_images.scss",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\_images.scss",
       "PackagePath": "staticwebassets\\webLibs\\scss\\bootstrap\\scss\\_images.scss"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\_input-group.scss",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\_input-group.scss",
       "PackagePath": "staticwebassets\\webLibs\\scss\\bootstrap\\scss\\_input-group.scss"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\_jumbotron.scss",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\_jumbotron.scss",
       "PackagePath": "staticwebassets\\webLibs\\scss\\bootstrap\\scss\\_jumbotron.scss"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\_list-group.scss",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\_list-group.scss",
       "PackagePath": "staticwebassets\\webLibs\\scss\\bootstrap\\scss\\_list-group.scss"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\_media.scss",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\_media.scss",
       "PackagePath": "staticwebassets\\webLibs\\scss\\bootstrap\\scss\\_media.scss"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\_mixins.scss",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\_mixins.scss",
       "PackagePath": "staticwebassets\\webLibs\\scss\\bootstrap\\scss\\_mixins.scss"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\_modal.scss",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\_modal.scss",
       "PackagePath": "staticwebassets\\webLibs\\scss\\bootstrap\\scss\\_modal.scss"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\_nav.scss",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\_nav.scss",
       "PackagePath": "staticwebassets\\webLibs\\scss\\bootstrap\\scss\\_nav.scss"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\_navbar.scss",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\_navbar.scss",
       "PackagePath": "staticwebassets\\webLibs\\scss\\bootstrap\\scss\\_navbar.scss"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\_pagination.scss",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\_pagination.scss",
       "PackagePath": "staticwebassets\\webLibs\\scss\\bootstrap\\scss\\_pagination.scss"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\_popover.scss",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\_popover.scss",
       "PackagePath": "staticwebassets\\webLibs\\scss\\bootstrap\\scss\\_popover.scss"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\_print.scss",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\_print.scss",
       "PackagePath": "staticwebassets\\webLibs\\scss\\bootstrap\\scss\\_print.scss"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\_progress.scss",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\_progress.scss",
       "PackagePath": "staticwebassets\\webLibs\\scss\\bootstrap\\scss\\_progress.scss"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\_reboot.scss",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\_reboot.scss",
       "PackagePath": "staticwebassets\\webLibs\\scss\\bootstrap\\scss\\_reboot.scss"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\_root.scss",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\_root.scss",
       "PackagePath": "staticwebassets\\webLibs\\scss\\bootstrap\\scss\\_root.scss"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\_spinners.scss",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\_spinners.scss",
       "PackagePath": "staticwebassets\\webLibs\\scss\\bootstrap\\scss\\_spinners.scss"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\_tables.scss",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\_tables.scss",
       "PackagePath": "staticwebassets\\webLibs\\scss\\bootstrap\\scss\\_tables.scss"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\_toasts.scss",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\_toasts.scss",
       "PackagePath": "staticwebassets\\webLibs\\scss\\bootstrap\\scss\\_toasts.scss"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\_tooltip.scss",
       "PackagePath": "staticwebassets\\webLibs\\scss\\bootstrap\\scss\\_tooltip.scss"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\_transitions.scss",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\_transitions.scss",
       "PackagePath": "staticwebassets\\webLibs\\scss\\bootstrap\\scss\\_transitions.scss"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\_type.scss",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\_type.scss",
       "PackagePath": "staticwebassets\\webLibs\\scss\\bootstrap\\scss\\_type.scss"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\_utilities.scss",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\_utilities.scss",
       "PackagePath": "staticwebassets\\webLibs\\scss\\bootstrap\\scss\\_utilities.scss"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\_variables.scss",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\_variables.scss",
       "PackagePath": "staticwebassets\\webLibs\\scss\\bootstrap\\scss\\_variables.scss"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
       "PackagePath": "staticwebassets\\webLibs\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
       "PackagePath": "staticwebassets\\webLibs\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\bootstrap.scss",
       "PackagePath": "staticwebassets\\webLibs\\scss\\bootstrap\\scss\\bootstrap.scss"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
       "PackagePath": "staticwebassets\\webLibs\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\mixins\\_background-variant.scss",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\mixins\\_background-variant.scss",
       "PackagePath": "staticwebassets\\webLibs\\scss\\bootstrap\\scss\\mixins\\_background-variant.scss"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\mixins\\_badge.scss",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\mixins\\_badge.scss",
       "PackagePath": "staticwebassets\\webLibs\\scss\\bootstrap\\scss\\mixins\\_badge.scss"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
       "PackagePath": "staticwebassets\\webLibs\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
       "PackagePath": "staticwebassets\\webLibs\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
       "PackagePath": "staticwebassets\\webLibs\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
       "PackagePath": "staticwebassets\\webLibs\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
       "PackagePath": "staticwebassets\\webLibs\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
       "PackagePath": "staticwebassets\\webLibs\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
       "PackagePath": "staticwebassets\\webLibs\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\mixins\\_float.scss",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\mixins\\_float.scss",
       "PackagePath": "staticwebassets\\webLibs\\scss\\bootstrap\\scss\\mixins\\_float.scss"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
       "PackagePath": "staticwebassets\\webLibs\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
       "PackagePath": "staticwebassets\\webLibs\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\mixins\\_grid-framework.scss",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\mixins\\_grid-framework.scss",
       "PackagePath": "staticwebassets\\webLibs\\scss\\bootstrap\\scss\\mixins\\_grid-framework.scss"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
       "PackagePath": "staticwebassets\\webLibs\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\mixins\\_hover.scss",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\mixins\\_hover.scss",
       "PackagePath": "staticwebassets\\webLibs\\scss\\bootstrap\\scss\\mixins\\_hover.scss"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\mixins\\_image.scss",
       "PackagePath": "staticwebassets\\webLibs\\scss\\bootstrap\\scss\\mixins\\_image.scss"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
       "PackagePath": "staticwebassets\\webLibs\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
       "PackagePath": "staticwebassets\\webLibs\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\mixins\\_nav-divider.scss",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\mixins\\_nav-divider.scss",
       "PackagePath": "staticwebassets\\webLibs\\scss\\bootstrap\\scss\\mixins\\_nav-divider.scss"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
       "PackagePath": "staticwebassets\\webLibs\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
       "PackagePath": "staticwebassets\\webLibs\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
       "PackagePath": "staticwebassets\\webLibs\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\mixins\\_screen-reader.scss",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\mixins\\_screen-reader.scss",
       "PackagePath": "staticwebassets\\webLibs\\scss\\bootstrap\\scss\\mixins\\_screen-reader.scss"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\mixins\\_size.scss",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\mixins\\_size.scss",
       "PackagePath": "staticwebassets\\webLibs\\scss\\bootstrap\\scss\\mixins\\_size.scss"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\mixins\\_table-row.scss",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\mixins\\_table-row.scss",
       "PackagePath": "staticwebassets\\webLibs\\scss\\bootstrap\\scss\\mixins\\_table-row.scss"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\mixins\\_text-emphasis.scss",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\mixins\\_text-emphasis.scss",
       "PackagePath": "staticwebassets\\webLibs\\scss\\bootstrap\\scss\\mixins\\_text-emphasis.scss"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\mixins\\_text-hide.scss",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\mixins\\_text-hide.scss",
       "PackagePath": "staticwebassets\\webLibs\\scss\\bootstrap\\scss\\mixins\\_text-hide.scss"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
       "PackagePath": "staticwebassets\\webLibs\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
       "PackagePath": "staticwebassets\\webLibs\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\mixins\\_visibility.scss",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\mixins\\_visibility.scss",
       "PackagePath": "staticwebassets\\webLibs\\scss\\bootstrap\\scss\\mixins\\_visibility.scss"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\utilities\\_align.scss",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\utilities\\_align.scss",
       "PackagePath": "staticwebassets\\webLibs\\scss\\bootstrap\\scss\\utilities\\_align.scss"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\utilities\\_background.scss",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\utilities\\_background.scss",
       "PackagePath": "staticwebassets\\webLibs\\scss\\bootstrap\\scss\\utilities\\_background.scss"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\utilities\\_borders.scss",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\utilities\\_borders.scss",
       "PackagePath": "staticwebassets\\webLibs\\scss\\bootstrap\\scss\\utilities\\_borders.scss"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\utilities\\_clearfix.scss",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\utilities\\_clearfix.scss",
       "PackagePath": "staticwebassets\\webLibs\\scss\\bootstrap\\scss\\utilities\\_clearfix.scss"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\utilities\\_display.scss",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\utilities\\_display.scss",
       "PackagePath": "staticwebassets\\webLibs\\scss\\bootstrap\\scss\\utilities\\_display.scss"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\utilities\\_embed.scss",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\utilities\\_embed.scss",
       "PackagePath": "staticwebassets\\webLibs\\scss\\bootstrap\\scss\\utilities\\_embed.scss"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\utilities\\_flex.scss",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\utilities\\_flex.scss",
       "PackagePath": "staticwebassets\\webLibs\\scss\\bootstrap\\scss\\utilities\\_flex.scss"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\utilities\\_float.scss",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\utilities\\_float.scss",
       "PackagePath": "staticwebassets\\webLibs\\scss\\bootstrap\\scss\\utilities\\_float.scss"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\utilities\\_interactions.scss",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\utilities\\_interactions.scss",
       "PackagePath": "staticwebassets\\webLibs\\scss\\bootstrap\\scss\\utilities\\_interactions.scss"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\utilities\\_overflow.scss",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\utilities\\_overflow.scss",
       "PackagePath": "staticwebassets\\webLibs\\scss\\bootstrap\\scss\\utilities\\_overflow.scss"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\utilities\\_position.scss",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\utilities\\_position.scss",
       "PackagePath": "staticwebassets\\webLibs\\scss\\bootstrap\\scss\\utilities\\_position.scss"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\utilities\\_screenreaders.scss",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\utilities\\_screenreaders.scss",
       "PackagePath": "staticwebassets\\webLibs\\scss\\bootstrap\\scss\\utilities\\_screenreaders.scss"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\utilities\\_shadows.scss",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\utilities\\_shadows.scss",
       "PackagePath": "staticwebassets\\webLibs\\scss\\bootstrap\\scss\\utilities\\_shadows.scss"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\utilities\\_sizing.scss",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\utilities\\_sizing.scss",
       "PackagePath": "staticwebassets\\webLibs\\scss\\bootstrap\\scss\\utilities\\_sizing.scss"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\utilities\\_spacing.scss",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\utilities\\_spacing.scss",
       "PackagePath": "staticwebassets\\webLibs\\scss\\bootstrap\\scss\\utilities\\_spacing.scss"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\utilities\\_stretched-link.scss",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\utilities\\_stretched-link.scss",
       "PackagePath": "staticwebassets\\webLibs\\scss\\bootstrap\\scss\\utilities\\_stretched-link.scss"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\utilities\\_text.scss",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\utilities\\_text.scss",
       "PackagePath": "staticwebassets\\webLibs\\scss\\bootstrap\\scss\\utilities\\_text.scss"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\utilities\\_visibility.scss",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\utilities\\_visibility.scss",
       "PackagePath": "staticwebassets\\webLibs\\scss\\bootstrap\\scss\\utilities\\_visibility.scss"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
       "PackagePath": "staticwebassets\\webLibs\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
     },
     {
-      "Id": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\style.scss",
+      "Id": "C:\\mynew\\DotNetApp\\codiePieFiza\\wwwroot\\webLibs\\scss\\style.scss",
       "PackagePath": "staticwebassets\\webLibs\\scss\\style.scss"
     },
     {

@@ -26,36 +26,7 @@ namespace codiePieFiza.Controllers
             }
             return View();
         }
-        ///Auth start
-        public IActionResult Register()
-        {
-            return View();
-        }
-
-        public IActionResult Login()
-        {
-            return View();
-        }
-
-        [HttpPost]
-        public IActionResult Login(Register r)
-        {
-            var check = _dBContext.Register.Where(a => a.Email == r.Email && a.Password == r.Password).FirstOrDefault();
-            HttpContext.Session.SetString("name", check.Name);
-            if (check != null)
-            {
-            return RedirectToAction("Index");
-            }
-            return View();
-        }
-
-        public IActionResult Logout()
-        {
-            HttpContext.Session.Remove("name");
-            return RedirectToAction("Login");
-        }
-        ///Auth end
-        
+     
         ///Crud start
         ///Category
        public IActionResult Categories()
@@ -84,6 +55,15 @@ namespace codiePieFiza.Controllers
             var CategoryToEdit = _dBContext.Category.Find(id);
             return View(CategoryToEdit);
         }
+        [HttpPost]
+        public IActionResult EditCategory(Category c,int id)
+        {
+           var check= _dBContext.Category.Where(a=>a.CategoryId==id).FirstOrDefault();
+            check.Name = c.Name;
+            _dBContext.SaveChanges();
+            return RedirectToAction("Categories");
+        }
+
         public IActionResult DeleteCategory(int id)
         {
             Category categoryToDelete = _dBContext.Category.Find(id);
@@ -118,6 +98,14 @@ namespace codiePieFiza.Controllers
         {
             var BrandToEdit = _dBContext.Brand.Find(id);
             return View(BrandToEdit);
+        }
+        [HttpPost]
+        public IActionResult EditBrand(Brand b, int id)
+        {
+            var check = _dBContext.Brand.Where(a => a.BrandId == id).FirstOrDefault();
+            check.BrandName = b.BrandName;
+            _dBContext.SaveChanges();
+            return RedirectToAction("Brand");
         }
         public IActionResult DeleteBrand(int id)
         {
@@ -154,6 +142,14 @@ namespace codiePieFiza.Controllers
         {
             var ProductToEdit = _dBContext.Product.Find(id);
             return View(ProductToEdit);
+        }
+        [HttpPost]
+        public IActionResult EditProduct(Product p, int id)
+        {
+            var check = _dBContext.Product.Where(a => a.ProductId == id).FirstOrDefault();
+            check.ProductName = p.ProductName;
+            _dBContext.SaveChanges();
+            return RedirectToAction("Products");
         }
         public IActionResult DeleteProduct(int id) {
             Product productToDelete = _dBContext.Product.Find(id);

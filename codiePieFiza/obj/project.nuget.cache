@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cP10hIva95q7nlLB2lrBxVaJe4Kfm37rDBXmB6/rikK+i3SqWbO3U0P5niv7HWShwlXajhW8k7JyazmD1VE0XA==",
+  "dgSpecHash": "p6Uv4Kj49a9ndkB6J5f1PhVFJUJckxzigxkTi+U52pMzsumTVG0iNnop6DRaufu+5/u0VeAf38lNegG5BPQgVA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\STD\\Documents\\DotNetApp\\codiePieFiza\\codiePieFiza.csproj",
+  "projectFilePath": "C:\\mynew\\DotNetApp\\codiePieFiza\\codiePieFiza.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\STD\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\STD\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
